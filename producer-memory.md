@@ -4,6 +4,7 @@ Torch reads this at the start of every session (interactive or scheduled) and ap
 
 ## Style & voice preferences
 
+- 2026-07-20: Scripts should NOT all follow the same shape. Aji flagged this after Video 1 leaned on Video 2's structure as a template (same three-ish-part framework device, same beat rhythm). CLAUDE.md's standard structure (hook/credibility/body/landing/sign-off) and the ten rules are the floor every script must hit — but *how* a video gets there should vary: not every video needs a named three-part framework, not every body needs 3-4 roughly-equal sections, not every landing needs the same "recap the framework, then homework" shape. Identity videos, listicles, search-intent explainers, and war-story videos should each feel structurally distinct, not like the same template with new words dropped in. Before drafting each new script, deliberately consider a different shape than the last 1-2 videos used.
 - 2026-07-20: Identity/day-in-the-life videos should frame around the *role and work itself* (what a data manager does, the decisions, the craft), not around a specific employer/location. Personal workplace details (e.g. the university) are supporting examples, not the organising frame. Applies to Video 1 and likely relevant to other identity-pillar videos (7, 13).
 
 ## Topics/angles that landed well
