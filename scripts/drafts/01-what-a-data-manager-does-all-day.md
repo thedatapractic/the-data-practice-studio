@@ -1,6 +1,6 @@
 # Video 1 — What a Data Manager Actually Does All Day (It's Not Spreadsheets)
 
-**Status:** Drafted
+**Status:** Drafted — all placeholders filled, ready for `/review-script`
 **Target runtime:** ~15 minutes (~2,150 words at 140wpm)
 **Thumbnail text:** "NOT SPREADSHEETS" or "MY ACTUAL JOB" (with Aji, direct to camera)
 **Description/tags:** what does a data manager do, data management career, data manager job description, day in the life data professional
@@ -28,7 +28,7 @@ Quick reintroduction if you're new here — I'm Aji Saine. Twelve-plus years spl
 
 I've done this work in two very different worlds. I managed clinical and health data covering over 285,000 people across research sites in West Africa. And today I work in statutory data reporting for a UK university, where the numbers I sign off decide funding.
 
-In between, I've led a team through migrating years of institutional data off Access and onto SQL Server, and built reporting dashboards that people across an entire organisation now open every morning without thinking about it.
+In between, I've trained a team through the shift from Access to SQL Server — proactively, ahead of a system migration that's been "coming" for two years and still hasn't landed — and built dashboards, including for a demographic surveillance system covering hundreds of thousands of people, that people open every morning without a second thought.
 
 Last week I told you data is an asset, and almost nobody's actually managing it properly. This week I'm going to show you what it looks like when somebody is — because it's not what you think, and by the end of this video you'll be able to spot the real work happening in your own organisation, even when nobody's calling it "data management."
 
@@ -54,11 +54,11 @@ Which raises the obvious question: what does that argument actually look like, d
 
 Let me take you through three real ones, from three different chapters of my career, because the pattern's the same even though the stakes look completely different.
 
-First — the developer years. [PLACEHOLDER: specific example from early software development work — a moment where a technically correct piece of code produced the wrong business outcome because of a data definition problem, not a bug]. That was the first time I understood that clean code sitting on top of a shaky definition is still a shaky system. It just fails more expensively, later, when nobody's looking.
+First — the developer years. Early on, I built a system with a "client" field. It validated fine. It ran fine. No bug anywhere in the code. But some people typed in the organisation. Others typed in a specific staff member at that organisation — because nobody had actually agreed what "client" meant before the form went live. Same field, two different realities living inside it, and the software couldn't tell the difference. That was the first time I understood that clean code sitting on top of a shaky definition is still a shaky system. It just fails more expensively, later, when nobody's looking.
 
-Second — the clinical data years in West Africa. I've told you before about vaccination dates recorded three different ways across three sites. Here's the decision that came out of that mess: I had to choose — do we standardise retroactively and risk overwriting what a health worker actually observed, or do we keep the raw entries and build the standardisation into every report from that point forward? [PLACEHOLDER: which option was chosen, and what the actual consequence or reaction was — from a specific site, colleague, or report]. That decision affected how vaccine coverage got reported for a quarter of a million people. Get that wrong, and a region gets marked as under-vaccinated when it isn't — or worse, the other way round.
+Second — the clinical data years in West Africa. I've told you before about vaccination dates recorded three different ways across three sites. Here's what we actually did about it: built a data dictionary — clear, agreed descriptions for every field — wrote standard operating procedures for how data got captured, and trained every site against both. Getting there wasn't clean, though. Every single site believed they were the ones doing it right. It took a meeting with all three sites in the room, reconciling three different "correct" answers into one, before we had a definition anybody would actually stand behind. That decision affected how vaccine coverage got reported for a quarter of a million people. Get that wrong, and a region gets marked as under-vaccinated when it isn't — or worse, the other way round.
 
-Third — right now, in UK higher education. Every year, universities submit statutory returns that regulators use to calculate funding and league table position. [PLACEHOLDER: a specific decision or judgment call from the statutory reporting work — a definitional dispute, an edge case in the data, a moment where the "correct" technical answer and the "correct" reporting answer weren't the same thing]. Nobody outside the data team ever sees that decision get made. But it's sitting underneath a number a journalist might quote, or a number the university's income depends on.
+Third — right now, in UK higher education. Not long after I started, I noticed my own team fielding requests for "all of it" — every student's data, no scope, no stated purpose, just handed over because it was easier to say yes. So I stopped it. We introduced a data access request policy: state what you need and why, we run a needs assessment against that, and you get exactly that — not the whole database because asking for everything was quicker than asking properly. Nobody outside the data team ever sees that policy get enforced. But it's the difference between a university that hands out data because someone asked nicely, and one that can actually account for who has access to what, and why.
 
 Three completely different worlds — a startup-style dev team, a health NGO, a UK statutory body — and the actual job was identical every time. Somebody has to decide what the data means before anyone's allowed to trust what it says. That somebody is the data manager.
 
@@ -68,19 +68,17 @@ And here's the part nobody warns you about: half of that job is fought outside a
 
 I called data governance "the referee" in last week's video. Turns out my actual job description is closer to referee than engineer most days.
 
-The clearest example I can give you is leading my team's move off Access and onto SQL Server. [PLACEHOLDER: the specific trigger for the migration — a failure, a scaling limit, a decision from above — and the timeframe involved].
+Here's an example that's happening to me right now, not a tidy story from the past. The university's been planning a move to a new student record system — one that runs on SQL Server — for two years. It still hasn't gone live; the institution itself hasn't been ready, on its own timeline, more than once. My team, until recently, only had real depth in Access.
 
-Everyone assumes that project was a technical one. Pick a platform, write some migration scripts, done. That part was maybe a third of the actual work.
+I didn't wait for the go-live date, because a date that's already slipped tends to slip again, and the day it finally happens is the worst possible day to discover your team doesn't have the skills for it. So I started training them in SQL Server now, on top of the work they're already doing, so that whenever the switch actually flips, that's not the thing we're behind on. Nobody assigned me that. It's not on any list of duties. It's the job anyway — noticing the change coming before the organisation itself is ready for it, and making sure your people aren't the bottleneck when it lands.
 
-The other two-thirds was translation. Explaining to people who'd used the same spreadsheet-shaped system for years why "it works fine for me" wasn't the same as "it works." Sitting between the technical team, who wanted the cleanest possible new structure, and the people actually using the data daily, who needed something they could still recognise. [PLACEHOLDER: a specific moment of resistance or pushback during the migration, and how it was resolved].
+The other kind of translation looks more like conflict. While I was building dashboards for the Medical Research Council, on a Health and Demographic Surveillance System covering a huge population, requests to change those dashboards came constantly — a new metric, a "quick" tweak, one more breakdown. My rule was simple: every request gets assessed before it goes anywhere near the dashboard. If it doesn't hold up — if it would blur a definition or quietly change what a number meant — it doesn't go in. That held even when the request came from management. I had the standing to give my own recommendation on how the data got presented, and I used it.
 
-That's the unglamorous half of the job — the half that doesn't show up in a portfolio. You're constantly standing between two languages. The technical language of tables, keys, and constraints. And the business language of "the customer," "the return," "the active student." Your job is to make sure those two languages are describing the same thing, because the moment they quietly drift apart, that's when reports stop being trusted and nobody can tell you why.
-
-Same thing happened with the dashboards I built. Anyone can put numbers on a screen. The actual work was deciding which numbers were worth the screen space, agreeing what each one meant with the people who'd be staring at it every morning, and then defending those definitions when someone wanted a "quick tweak" that would've quietly broken the comparison to last year's figures. [PLACEHOLDER: a specific instance of pushing back on a well-meaning but data-breaking request].
+That's the unglamorous half of the job — the half that doesn't show up in a portfolio. You're constantly standing between two languages: the technical language of tables, keys, and constraints, and the business language of "the student," "the return," "the active case." Your job is to make sure those two languages are still describing the same thing, because the moment they quietly drift apart, that's when reports stop being trusted and nobody can tell you why.
 
 Saying no is part of the job description, even though it's never written down anywhere.
 
-So if the job is mostly judgment calls and translation and the occasional necessary "no" — why does any of it matter enough to lose sleep over? That's the part that made me take this career seriously in the first place.
+So if the job is mostly foresight, translation, and the occasional necessary "no" — why does any of it matter enough to lose sleep over? That's the part that made me take this career seriously in the first place.
 
 ### PART 4 — WHY THE JUDGMENT CALLS ARE PERSONAL (10:30–12:45)
 
