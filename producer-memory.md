@@ -4,7 +4,7 @@ Torch reads this at the start of every session (interactive or scheduled) and ap
 
 ## Style & voice preferences
 
-_(none logged yet)_
+- 2026-07-20: Identity/day-in-the-life videos should frame around the *role and work itself* (what a data manager does, the decisions, the craft), not around a specific employer/location. Personal workplace details (e.g. the university) are supporting examples, not the organising frame. Applies to Video 1 and likely relevant to other identity-pillar videos (7, 13).
 
 ## Topics/angles that landed well
 
