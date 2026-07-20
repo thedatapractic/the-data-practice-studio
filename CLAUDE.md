@@ -73,14 +73,13 @@ The ten scripting rules (below) are the floor under all five — hook fast, writ
 
 Tighter and faster than the flagship template — no slow-build open loop when the viewer already knows what they clicked for.
 
-### 3. Day-in-the-life (time-anchored)
-**Use for:** literal "day in my career/life" videos (pillar 5) — Video 1, later similar content. A story, not an argument.
-1. **Cold open:** drop into one specific moment. The first line is the real hook — it has to land in the first few seconds, not somewhere across a 45-second window.
-2. **Grounding (to ~1:30):** who you are, folded into the scene, not recited.
-3. **The day (body, 3–5 scenes):** anchored to real or composited clock-time ("8:50am", "11:15", "3pm") — the clock itself supplies the journey structure and the re-hook cadence as time visibly moves. Vary the emotional register scene to scene (mundane next to high-stakes) the way real days actually feel.
-4. **The turning point:** the single scene that's the emotional peak.
-5. **Reflection, not recap:** what it means, personally — resist compressing it into a nameable framework the way a teaching video would.
-6. **Tease + sign-off.**
+### 3. Career-thread / multi-chapter reflection
+**Use for:** identity videos (pillar 5) about the nature of the work itself, not a literal single day and not a single change — "what this job actually is," drawn from several chapters of a career. Video 1 is the model. Note: this is deliberately close in mechanics to the flagship template (an argument, assembled toward a nameable framework) — the difference is the evidence is personal lived moments, not a body of knowledge, and the "credibility" beat carries more weight since the presenter's range across chapters *is* the argument.
+1. **Hook (0:00–0:45):** open with one small, sharp real moment that captures the misconception or reveals the texture of the work — not a rhetorical "let me ask you a question."
+2. **Credibility + promise (to ~2:00):** who you are, and the breadth of chapters the video's about to draw on, in one breath — what the viewer will understand about the work by the end.
+3. **Body (3–5 sections):** each section pulls one thread through two or three real moments from different chapters of the career — different jobs, different years, same underlying pattern. Chronological narrative markers ("back in my developer years... years later... and it's still happening now"), never ordinal labels ("first... second... third"). Sections build toward a nameable framework that names the pattern across all of them, assembled piece by piece. Each section ends on a bridge.
+4. **Landing:** recap the framework in a line or two, deliver a takeaway/exercise, tease next video.
+5. **Sign-off:** one line, never a fade-out.
 
 ### 4. Transformation / origin story
 **Use for:** career-change and journey videos (Video 7) — "how I went from X to Y." Built around a before/obstacle/after arc. Transformation-arc videos consistently earn higher share rates than non-narrative content, because people share proof that change is possible.
