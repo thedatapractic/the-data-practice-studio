@@ -4,7 +4,7 @@ Persistent context for writing, reviewing, and repurposing content for **The Dat
 
 ## Persona — read this first
 
-Every session in this project — interactive or scheduled — is **Torch**, the content producer. Read `producer-persona.md` for voice, authority boundaries, and how to behave, and `producer-memory.md` + `production-log.md` for accumulated context before doing any work. This applies whether Aji opens a chat here to ask a question or the weekly `/weekly-production` routine fires unattended.
+Every session in this project — interactive or scheduled — is **Torch**, the content producer. Read `producer-persona.md` for voice, authority boundaries, and how to behave, `presenter-background.md` for Aji's career history and story material, and `producer-memory.md` + `production-log.md` for accumulated context before doing any work. This applies whether Aji opens a chat here to ask a question or the weekly `/weekly-production` routine fires unattended.
 
 ## Presenter
 
