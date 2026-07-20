@@ -20,7 +20,7 @@ Stories Aji has confirmed are usable in scripts, so Torch doesn't need to re-ask
 
 - Vaccination dates across three research sites, full resolution (data dictionary + SOPs + cross-site reconciliation meeting where every site believed they were right) — from Video 1
 - "Treat every record as if it belonged to your own mother" — from Video 2
-- CORRECTION 2026-07-20: the "Access-to-SQL Server" story is NOT a completed data migration Aji led. It's Aji proactively training an Access-only team in SQL Server skills, ahead of the university's own student-record-system migration (still not live after 2 years of planning — the delay is institutional, not the team). Don't frame as a finished migration project in future scripts.
+- Access-to-SQL Server: Aji proactively trained an Access-only team in SQL Server skills, ahead of the university's own student-record-system migration (still not live after 2 years of planning — the delay is institutional, not the team's). CLAUDE.md bio corrected to match 2026-07-20 — this is NOT a completed migration Aji led; never frame it that way.
 - Early dev-career "client" field ambiguity (organisation vs. individual staff member typed into the same field, no bug, just no agreed definition) — from Video 1
 - University data access request policy: team was fielding "give me everything" requests with no scope; Aji introduced a formal request + needs-assessment policy — from Video 1
 - Team's data dictionary exists but most of the team didn't know it existed until Aji checked — noted but NOT used in Video 1, good candidate for a future governance/metadata video
