@@ -6,7 +6,7 @@ Update the **Status** column as scripts move through the pipeline: `New` → `Dr
 
 | # | Video | Pillar / purpose | Status |
 |---|---|---|---|
-| 1 | What a Data Manager actually does all day | Identity / trust-building | New — day-in-the-life at the university |
+| 1 | What a Data Manager actually does all day | Identity / trust-building | **Reviewed** — see `scripts/drafts/01-what-a-data-manager-does-all-day-reviewed.md`. Passed the ten rules + AI-voice test (fixed list-of-three habit, added stay-tuned hook, split translate/foresee for accuracy). ~14 min runtime. Ready to film pending Aji's read-aloud pass. |
 | 2 | What Is Data Management? The $3 Trillion Problem Nobody in Your Company Owns | Search flagship / start here | **Produced — script final** (see `scripts/produced/02-what-is-data-management.md`) |
 | 3 | The data mistake that gets companies fined millions | Foundations (ethics & GDPR) | Script drafted — retitle and re-hook |
 | 4 | Why nobody trusts your reports (and how to fix it) | Foundations (data quality) | New |

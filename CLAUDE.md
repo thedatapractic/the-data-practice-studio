@@ -8,7 +8,7 @@ Every session in this project — interactive or scheduled — is **Torch**, the
 
 ## Presenter
 
-**Aji Saine.** 12+ years spanning software development and clinical/health data management. Managed clinical and health data covering 285,000+ people across research sites in West Africa (a single data error could affect a medical decision). Currently works in statutory data reporting for a UK university, where submitted data determines funding and regulation. Led a team's transition from Access to SQL Server. Built reporting dashboards used across an institution.
+**Aji Saine.** 12+ years spanning software development and clinical/health data management. Managed clinical and health data covering 285,000+ people across research sites in West Africa (a single data error could affect a medical decision). Currently works in statutory data reporting for a UK university, where submitted data determines funding and regulation. Proactively trained an Access-only team in SQL Server skills ahead of the university's own student-record-system migration — still not live after two years of institutional planning, the delay is not the team's. Built dashboards for the Medical Research Council's Health and Demographic Surveillance System (HDSS), used across the organisation to track demographic data for a large population.
 
 This breadth — development, health data, governance, statutory reporting, team leadership — is the channel's competitive moat. Every script should draw on lived experience, not textbook paraphrase.
 
@@ -47,15 +47,57 @@ Every video belongs to exactly one pillar:
 
 ## Format
 
-Long-form is primary (target ~15 min, ~140 spoken words/minute → ~2,150 words). Short-form clips are cut *from* finished long-form scripts to widen reach, not written separately from scratch.
+Long-form is primary (target ~15 min, ~140 spoken words/minute → ~2,150 words) for the flagship and identity templates below. Search-intent and listicle videos are allowed to run shorter (~8–12 min) — they're built for a faster payoff and padding to 15 min hurts them. Short-form clips are cut *from* finished long-form scripts to widen reach, not written separately from scratch.
 
-## Standard script structure (long-form)
+## Script templates — pick one per video, every time
 
-1. **Hook (0:00–0:45):** no greetings/housekeeping. Open with the viewer's problem, promise the payoff, plant an open loop.
-2. **Credibility + promise (to ~2:00):** who the presenter is in one breath, why this matters, what the viewer will be able to do by the end.
-3. **Body (3–5 sections):** each section ends with a bridge that raises the question the next section answers. Sections never simply stop.
-4. **Landing:** restate the core argument in 3–4 sentences, deliver the promised exercise/takeaway, pivot into the next video with a problem-led tease.
+Five templates, no more. Every script picks exactly one before drafting starts, and the pick gets stated in one line alongside the draft (status line or production-log entry) so it's auditable later. **Never default to whichever template the last video used** — the whole point of having five is that the channel shouldn't read as one template with new words dropped in each week. If a video doesn't cleanly fit one of the five, flag it to Aji rather than forcing it.
+
+The ten scripting rules (below) are the floor under all five — hook fast, write for the ear, concrete over abstract, cut 15–20%, end with momentum. What differs between templates is the shape carrying those rules.
+
+### 1. Flagship / deep-dive teaching
+**Use for:** cornerstone pillars 1–3 videos that need to walk the viewer through a whole argument, especially when the point requires unlearning a misconception first. Video 2 is the model.
+1. **Hook (0:00–0:45):** open with the viewer's problem, promise the payoff, plant an open loop — don't give the answer yet.
+2. **Credibility + promise (to ~2:00):** who you are in one breath, what the viewer will be able to do by the end.
+3. **Body (3–5 sections):** each section builds on the last and ends on a bridge that raises the next section's question. The framework gets assembled piece by piece, not handed over up front.
+4. **Landing:** restate the argument in 3–4 sentences, deliver the promised exercise, tease next video.
 5. **Sign-off:** one line, never a fade-out.
+
+### 2. Search-intent / direct-answer explainer
+**Use for:** evergreen search titles where the viewer typed a specific question and wants the answer now — "what is X", "is [certification] worth it", "X explained for beginners". Viewers decide whether to stay within seconds on this kind of content, and give the result before the reasoning, not after.
+1. **Hook (0:00–0:20):** state the direct answer, or the shape of it, immediately — no extended open loop. One line on why the question matters.
+2. **Context (0:20–1:00):** why this trips people up, what's actually at stake in getting it wrong.
+3. **Breakdown (body, 3–4 short sections):** unpack the answer piece by piece, each with a concrete example.
+4. **Practical application:** what the viewer does with this tomorrow.
+5. **Recap + CTA:** quick summary, tease next video.
+
+Tighter and faster than the flagship template — no slow-build open loop when the viewer already knows what they clicked for.
+
+### 3. Career-thread / multi-chapter reflection
+**Use for:** identity videos (pillar 5) about the nature of the work itself, not a literal single day and not a single change — "what this job actually is," drawn from several chapters of a career. Video 1 is the model. Note: this is deliberately close in mechanics to the flagship template (an argument, assembled toward a nameable framework) — the difference is the evidence is personal lived moments, not a body of knowledge, and the "credibility" beat carries more weight since the presenter's range across chapters *is* the argument.
+1. **Hook (0:00–0:45):** open with one small, sharp real moment that captures the misconception or reveals the texture of the work — not a rhetorical "let me ask you a question."
+2. **Credibility + promise (to ~2:00):** who you are, and the breadth of chapters the video's about to draw on, in one breath — what the viewer will understand about the work by the end.
+3. **Body (3–5 sections):** each section pulls one thread through two or three real moments from different chapters of the career — different jobs, different years, same underlying pattern. Chronological narrative markers ("back in my developer years... years later... and it's still happening now"), never ordinal labels ("first... second... third"). Sections build toward a nameable framework that names the pattern across all of them, assembled piece by piece. Each section ends on a bridge.
+4. **Landing:** recap the framework in a line or two, deliver a takeaway/exercise, tease next video.
+5. **Sign-off:** one line, never a fade-out.
+
+### 4. Transformation / origin story
+**Use for:** career-change and journey videos (Video 7) — "how I went from X to Y." Built around a before/obstacle/after arc. Transformation-arc videos consistently earn higher share rates than non-narrative content, because people share proof that change is possible.
+1. **Cold open:** drop into the "before" moment — the specific instant that shows the old reality, not a summary of it.
+2. **The obstacle/turning point:** what forced or triggered the change — the real hinge of the story.
+3. **The after:** what's different now, shown through one concrete scene, not a list of improvements.
+4. **What it means for the viewer:** direct address — if they're where you were, here's the honest version of what's ahead.
+5. **Tease + sign-off.**
+
+### 5. Listicle / shareable countdown
+**Use for:** shareable list-format videos (backlog #6, "signs your company has a data problem," is the model) — cross-pillar, works for any pillars 1–3 content that's inherently enumerable. The one template where being "listy" is correct, not an AI-voice problem — it's the genre.
+1. **Hook (under 20 words, ~0:00–0:20):** tease the standout item without naming it, and signal the order is intentional, not random.
+2. **Quick setup (~0:20–0:45):** why this list matters, what qualifies an item.
+3. **The items (body):** each gets its own mini hook–example–stakes. Vary sentence pace (short and punchy vs. one slower beat) so items don't blur together.
+4. **Mid-video retention beat (~50% mark):** explicitly flag what's coming — "item four is the one I see in almost every organisation I've worked with." This single beat is the biggest retention lever in this format — don't skip it.
+5. **Recap + CTA:** quick summary, tease next video.
+
+The ten scripting rules below still apply in full — hook fast, write for the ear, re-hook often, concrete over abstract, cut 15–20%, end with momentum. What changes is the shape carrying them: narrative arc instead of argument-building. Rule 10 (frameworks and numbers) is the one to lean on least here — a named framework is a teaching-video device, and overusing it in identity content is what makes the channel start to feel like one template with new words in it.
 
 ## The ten scripting rules
 
