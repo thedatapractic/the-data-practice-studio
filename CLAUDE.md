@@ -57,6 +57,21 @@ Long-form is primary (target ~15 min, ~140 spoken words/minute → ~2,150 words)
 4. **Landing:** restate the core argument in 3–4 sentences, deliver the promised exercise/takeaway, pivot into the next video with a problem-led tease.
 5. **Sign-off:** one line, never a fade-out.
 
+This shape is for **teaching videos** — it works by building an argument, section by section, toward a framework. Don't force pillar-5 identity content into it (see below).
+
+## Identity / story structure (pillar 5 — day-in-the-career, war stories, career journey)
+
+Identity content earns trust through story and voice, not through an argument. Videos 1, 7, 13 and similar use this shape instead, not the standard one above:
+
+1. **Cold open (0:00–0:45):** drop the viewer into a specific, vivid moment — mid-decision, mid-crisis, mid-meeting. No rhetorical "let me ask you a question." Show the moment, don't announce the topic.
+2. **Grounding (to ~1:30):** who you are, folded into the scene rather than recited as a separate credentials block — a breath, not a CV readout.
+3. **The walk-through (body):** 3–5 real scenes, told as a journey through a day, week, or chapter of the career. Each scene is a small story with its own beginning, middle, and feeling — not a stacked "proof point" for a thesis. Vary the emotional register scene to scene (a mundane moment next to a high-stakes one) for pacing, the way real days actually feel.
+4. **The turning point:** the single moment that best captures why the work matters. This is the emotional peak of the video, not a framework recap.
+5. **Reflection, not recap:** what this means, said plainly and personally. Resist compressing it into a nameable framework the way a teaching video would — identity content should land as more vulnerable and specific, not more quotable.
+6. **Tease + sign-off:** same as the standard structure.
+
+The ten scripting rules below still apply in full — hook fast, write for the ear, re-hook often, concrete over abstract, cut 15–20%, end with momentum. What changes is the shape carrying them: narrative arc instead of argument-building. Rule 10 (frameworks and numbers) is the one to lean on least here — a named framework is a teaching-video device, and overusing it in identity content is what makes the channel start to feel like one template with new words in it.
+
 ## The ten scripting rules
 
 1. First 30 seconds decide everything — never open with "welcome back."
