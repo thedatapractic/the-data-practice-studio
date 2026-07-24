@@ -51,9 +51,9 @@ Long-form is primary (target ~15 min, ~140 spoken words/minute → ~2,150 words)
 
 ## Script templates — pick one per video, every time
 
-Five templates, no more. Every script picks exactly one before drafting starts, and the pick gets stated in one line alongside the draft (status line or production-log entry) so it's auditable later. **Never default to whichever template the last video used** — the whole point of having five is that the channel shouldn't read as one template with new words dropped in each week. If a video doesn't cleanly fit one of the five, flag it to Aji rather than forcing it.
+Six templates, no more. Every script picks exactly one before drafting starts, and the pick gets stated in one line alongside the draft (status line or production-log entry) so it's auditable later. **Never default to whichever template the last video used** — the whole point of having six is that the channel shouldn't read as one template with new words dropped in each week. If a video doesn't cleanly fit one of the six, flag it to Aji rather than forcing it.
 
-The ten scripting rules (below) are the floor under all five — hook fast, write for the ear, concrete over abstract, cut 15–20%, end with momentum. What differs between templates is the shape carrying those rules.
+The ten scripting rules (below) are the floor under all six — hook fast, write for the ear, concrete over abstract, cut 15–20%, end with momentum. What differs between templates is the shape carrying those rules.
 
 ### 1. Flagship / deep-dive teaching
 **Use for:** cornerstone pillars 1–3 videos that need to walk the viewer through a whole argument, especially when the point requires unlearning a misconception first. Video 2 is the model.
@@ -96,6 +96,17 @@ Tighter and faster than the flagship template — no slow-build open loop when t
 3. **The items (body):** each gets its own mini hook–example–stakes. Vary sentence pace (short and punchy vs. one slower beat) so items don't blur together.
 4. **Mid-video retention beat (~50% mark):** explicitly flag what's coming — "item four is the one I see in almost every organisation I've worked with." This single beat is the biggest retention lever in this format — don't skip it.
 5. **Recap + CTA:** quick summary, tease next video.
+
+### 6. Myth vs. mechanism (contrarian reveal)
+**Use for:** cross-pillar, especially case-study-driven pillar 1–3 topics — backlog #3, "the data mistake that gets companies fined millions," is the natural home. Modelled on the storytelling mechanics of The Jay Martin Show (style only — never the content or subject matter). The engine of this template is disagreement, not a cliffhanger question: state what people assume is true, then say plainly that it isn't.
+1. **Hook — the turning point (0:00–0:45):** open on a dated or vivid moment framed like history-in-the-making — a regulation's effective date, an already-resolved historical incident, or a composited/anonymised scene. Never a live, current, identifiable person or company (see the standing rule below) — the date or moment carries the weight, not a name.
+2. **The reveal (0:45–1:30):** state the official or assumed explanation, then reject it in plain first-person terms — "Everyone tells you X happens because of Y. It doesn't." No hedging, no rhetorical question standing in for the disagreement.
+3. **The precedent (body, 2–3 sections):** one vivid, already-documented case that proves the pattern is real and has happened before — pull from Aji's own confirmed lived experience where possible, or a long-settled public case, never a current identifiable organisation. Each section ends on a bridge.
+4. **The mechanism, compressed:** the abstract cause reduced to one plain, sayable ratio or number a viewer could repeat to a colleague (e.g. "if the same customer exists in six systems, that's six versions of the truth competing for one decision").
+5. **Landing:** a confident, unhedged forward claim about what this means going forward — not a hedge, not "food for thought" — then the takeaway/exercise and next-video tease.
+6. **Sign-off:** one line, never a fade-out.
+
+**Standing rule for this template (and any other content drawing on real-world cases):** minimize — don't necessarily eliminate entirely, but keep to a minimum — references to identifiable living people or current companies tied to specific events. Prefer Aji's own confirmed experience, long-resolved public cases, or composited/anonymised scenarios instead.
 
 The ten scripting rules below still apply in full — hook fast, write for the ear, re-hook often, concrete over abstract, cut 15–20%, end with momentum. What changes is the shape carrying them: narrative arc instead of argument-building. Rule 10 (frameworks and numbers) is the one to lean on least here — a named framework is a teaching-video device, and overusing it in identity content is what makes the channel start to feel like one template with new words in it.
 
