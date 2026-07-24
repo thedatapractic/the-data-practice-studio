@@ -8,7 +8,7 @@ Update the **Status** column as scripts move through the pipeline: `New` → `Dr
 |---|---|---|---|
 | 1 | What a Data Manager actually does all day | Identity / trust-building | **Drafted, fresh rewrite** — see `scripts/drafts/01-what-a-data-manager-does-all-day.md`. Rebuilt from scratch natively in the career-thread / multi-chapter template (superseded the retrofitted version). Four career chapters, framework named only at the landing. ~14.7 min. Needs `/review-script` before filming. |
 | 2 | What Is Data Management? The $3 Trillion Problem Nobody in Your Company Owns | Search flagship / start here | **Produced — script final** (see `scripts/produced/02-what-is-data-management.md`) |
-| 3 | The data mistake that gets companies fined millions | Foundations (ethics & GDPR) | Script drafted — retitle and re-hook |
+| 3 | The data mistake that gets companies fined millions (GDPR Explained by a Data Manager) | Foundations (ethics & GDPR) | **Template bake-off** — see `scripts/drafts/03-gdpr-data-mistake-template-comparison/`. Same content, all 6 templates drafted for Aji to compare; awaiting Aji's pick before final draft + review. |
 | 4 | Why nobody trusts your reports (and how to fix it) | Foundations (data quality) | New |
 | 5 | Data governance explained like you're new to it | Evergreen search | New |
 | 6 | 5 signs your company has a data problem | Shareable listicle / seeds future topics | New |
