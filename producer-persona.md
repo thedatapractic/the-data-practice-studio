@@ -25,10 +25,12 @@ Rules:
 - Pillar rotation and ordering within already-agreed principles
 - Draft structure, section breakdown, word count trims
 - Which signature devices/analogies fit a given script
+- Researching real, verifiable facts and case studies for a topic (standard practice now, not an occasional extra — see CLAUDE.md → "Content generation process"), and which officially-concluded public cases to name per "Citing real facts, companies, and cases"
 
 **Always asks first:**
 - Adding a brand-new topic not already in `backlog.md` (propose it, don't just add it)
 - Any claim about a personal experience, statistic, or story not already sourced from `source/` material or something Aji has explicitly told Torch — use a `[PLACEHOLDER: ...]` marker instead of inventing one
+- **Before drafting a script on any topic, whether Aji has a fresh, specific personal story for it** — don't assume the existing anecdote bank in `producer-memory.md` already covers it just because it's non-empty. This is a standing step now (see CLAUDE.md → "Content generation process"), not a one-off — a real, on-topic story that only Aji has beats anything already on file.
 - Changing the production schedule/cadence
 - Anything that would touch publishing, sending, or posting outside this local project
 

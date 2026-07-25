@@ -99,16 +99,33 @@ Tighter and faster than the flagship template — no slow-build open loop when t
 
 ### 6. Myth vs. mechanism (contrarian reveal)
 **Use for:** cross-pillar, especially case-study-driven pillar 1–3 topics — backlog #3, "the data mistake that gets companies fined millions," is the natural home. Modelled on the storytelling mechanics of The Jay Martin Show (style only — never the content or subject matter). The engine of this template is disagreement, not a cliffhanger question: state what people assume is true, then say plainly that it isn't.
-1. **Hook — the turning point (0:00–0:45):** open on a dated or vivid moment framed like history-in-the-making — a regulation's effective date, an already-resolved historical incident, or a composited/anonymised scene. Never a live, current, identifiable person or company (see the standing rule below) — the date or moment carries the weight, not a name.
+1. **Hook — the turning point (0:00–0:45):** open on a dated or vivid moment framed like history-in-the-making — a regulation's effective date, an already-concluded real case (name it — see "Citing real facts" below), or a composited/anonymised scene if nothing real fits. The date, number, or moment carries the weight.
 2. **The reveal (0:45–1:30):** state the official or assumed explanation, then reject it in plain first-person terms — "Everyone tells you X happens because of Y. It doesn't." No hedging, no rhetorical question standing in for the disagreement.
-3. **The precedent (body, 2–3 sections):** one vivid, already-documented case that proves the pattern is real and has happened before — pull from Aji's own confirmed lived experience where possible, or a long-settled public case, never a current identifiable organisation. Each section ends on a bridge.
+3. **The precedent (body, 2–3 sections):** one vivid, real, already-concluded case that proves the pattern is real and has happened before — name the real organisation and the real number where it's public record (that specificity is most of the hook's power), or pull from Aji's own confirmed lived experience. Composite only when nothing real and resolved fits. Each section ends on a bridge.
 4. **The mechanism, compressed:** the abstract cause reduced to one plain, sayable ratio or number a viewer could repeat to a colleague (e.g. "if the same customer exists in six systems, that's six versions of the truth competing for one decision").
 5. **Landing:** a confident, unhedged forward claim about what this means going forward — not a hedge, not "food for thought" — then the takeaway/exercise and next-video tease.
 6. **Sign-off:** one line, never a fade-out.
 
-**Standing rule for this template (and any other content drawing on real-world cases):** minimize — don't necessarily eliminate entirely, but keep to a minimum — references to identifiable living people or current companies tied to specific events. Prefer Aji's own confirmed experience, long-resolved public cases, or composited/anonymised scenarios instead.
+See "Citing real facts, companies, and cases" below — this template leans on real, named, verifiable cases more than any other, and undercutting that with over-cautious anonymising is a known failure mode (see production-log, backlog #3).
 
 The ten scripting rules below still apply in full — hook fast, write for the ear, re-hook often, concrete over abstract, cut 15–20%, end with momentum. What changes is the shape carrying them: narrative arc instead of argument-building. Rule 10 (frameworks and numbers) is the one to lean on least here — a named framework is a teaching-video device, and overusing it in identity content is what makes the channel start to feel like one template with new words in it.
+
+## Content generation process
+
+A template is a **skeleton** — hook length, section count, where the framework lands. It is never the ceiling on how rich the content inside it gets, and a script that's structurally perfect but built from thin material is still a weak script. This happened once already (see production-log, backlog #3: a six-template comparison that only ever compared six thin drafts against each other, never against genuinely strong material) — these six phases exist to stop it happening again. Run all six for every script, not just when something feels missing.
+
+1. **Research.** Before drafting, search for real, verifiable facts, numbers, and case studies about the topic. Don't limit yourself to what's already in this project — the internet is part of the toolkit, every time, not an occasional add-on.
+2. **Ask Aji.** Before drafting, ask explicitly whether Aji has a fresh, specific, vivid personal story, rule, or practice tied to *this* topic — don't assume `producer-memory.md`'s existing anecdote bank already covers it just because it's non-empty. The bank is a floor, not a ceiling. One real, specific story given full space beats several recycled ones spread thin.
+3. **Find one fresh analogy.** Every new topic earns at least one new, ownable image — not a recycled signature device. Recycled devices (the torch in the warehouse, the polluted river) are for callbacks between videos that have already earned them, not a substitute for finding something new.
+4. **Draft**, pouring in everything gathered in steps 1–3, using the chosen template purely as structure. Don't let "which section am I in" limit how much real material goes into it.
+5. **Review** — the standard ten-rules-and-AI-voice pass (see `/review-script`), plus: an intensifier-density scan (flag any single crutch word — "actually," "exactly," "quietly," "genuinely," "honestly" and similar — appearing more than ~3 times per 1,000 words), and a raw-material check (does the hook use a real, verifiable, specific fact where one exists rather than a composite; is there one strong story with real space, not several diluted ones; is there at least one fresh analogy).
+6. **Finalize** — update `backlog.md`, `production-log.md`, and `producer-memory.md` as usual.
+
+### Citing real facts, companies, and cases
+
+The rule is **settled public record vs. live or private** — not "real vs. not real." Officially concluded, publicly documented outcomes (regulatory fines, settlements, court rulings — a matter of record, already reported) can and should be cited by name and number when they strengthen a hook or a precedent. A verifiable number attached to a name a viewer recognises is one of the strongest attention devices available, and defaulting to an anonymised composite when a real, settled case exists is an overcorrection, not caution.
+
+What still gets minimized or composited: live, ongoing, unresolved situations, and any speculation about an identifiable living person's or current company's private or disputed conduct. The distinction is whether the specific claim is already public record and closed, not whether the organisation named still exists today — Meta, British Airways, Marriott, and H&M are all still operating; their GDPR fines are still fair game to name, because those specific events are concluded and already public.
 
 ## The ten scripting rules
 
