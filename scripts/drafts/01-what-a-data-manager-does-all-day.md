@@ -1,6 +1,6 @@
 # Video 1 — What a Data Manager Actually Does All Day (It's Not Spreadsheets)
 
-**Status:** Drafted — fresh rewrite, built natively as the career-thread template
+**Status:** Drafted — fresh rewrite, built natively as the career-thread template. Fact-corrected 2026-07-25: the access-request story now matches confirmed detail (demographic information, not "contact details"; landed with a direct report, not Aji directly; policy created *after* this incident, not already in place) and drops an unconfirmed quote ("just in case it's useful") that had been carried forward without ever being verified.
 **Template:** Career-thread / multi-chapter reflection (CLAUDE.md → Script templates #3)
 **Target runtime:** ~15 minutes (~2,150 words at 140wpm)
 **Thumbnail text:** "NOT SPREADSHEETS" or "MY ACTUAL JOB" (with Aji, direct to camera)
@@ -61,9 +61,9 @@ That instinct — decide, then defend the decision, then live with what it prote
 
 ### RIGHT NOW, UK HIGHER EDUCATION (7:15–10:00)
 
-Not long after I started in UK higher education, I noticed my own team fielding requests for "all of it" — every student's data, no scope, no stated purpose, handed over because saying yes was quicker than asking why. So I stopped it. We introduced a data access request policy: state what you need, state why, we run a needs assessment against that, and you get exactly that.
+Not long after I started in UK higher education, a request landed in my team's inbox: a full extract of every student's demographic information, no scope, no stated purpose. One of my direct reports was about to process it. I stopped him, and had him go back to the requester and ask for only what was actually needed.
 
-One request, early on, was for a full extract of every current and former student's contact details, "just in case it's useful." That's the kind of request that used to sail through without a second thought. Now it doesn't — not without someone telling us specifically why they need it. Nobody outside the data team ever sees that policy get enforced. But it's the difference between a university that hands out data because someone asked nicely, and one that can actually account for who has access to what.
+That's the incident that led me to introduce a data access request policy afterward — I drafted a form and got my line manager's approval: state what you need, state why, we run a needs assessment against that, and you get exactly that. Nobody outside the data team ever sees that policy get enforced. But it's the difference between a university that hands out data because someone asked nicely, and one that can actually account for who has access to what.
 
 There's something else happening in this job right now, too — not a tidy story from the past. The university's been planning a move to a new student record system, one that runs on SQL Server, for two years. It still hasn't gone live; the institution's own timeline keeps slipping. My team, until recently, only had real depth in Access.
 
