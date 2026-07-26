@@ -18,7 +18,7 @@ Target: $ARGUMENTS (a topic/backlog number for a fresh build, or a path to an ex
 1. Read `CLAUDE.md` (script templates, "Content generation process," "Citing real facts," the ten rules) and `backlog.md`/`producer-memory.md`/`production-log.md` for context, same as `/new-script`.
 2. Research real, verifiable facts and case studies for this topic (per "Citing real facts, companies, and cases" — name real, settled cases where they exist).
 3. Propose a template (state which of the six and why) and a rough section outline — hook angle, credibility angle, what each body section will cover, the landing's core takeaway — as a **short outline, not prose**. Ask Aji to approve or redirect the outline before any section gets written in full. This is the first stop-and-wait point.
-4. Once the outline's approved, ask explicitly whether Aji has a fresh, specific personal story for this topic before defaulting to `producer-memory.md`'s bank. Stop and wait.
+4. Once the outline's approved, ask explicitly whether Aji has a fresh, specific personal story for this topic — ask first, don't default to `producer-memory.md`'s bank just because something in it could fit; repeating the same stories across videos is exactly what Aji wants avoided. Stop and wait.
 5. Only after outline + material are settled, move into "Walk the sections."
 
 ## Rework phase (existing draft)
