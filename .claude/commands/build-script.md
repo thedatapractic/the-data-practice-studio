@@ -37,7 +37,8 @@ For each section, in order:
 1. Propose the content for that section only — a full draft of that section, or (for the hook, or any section with a real creative fork) two short alternative angles when there's a genuine choice worth Aji picking between, not just one to rubber-stamp.
 2. Flag anything you're uncertain about as a direct question rather than guessing or placeholdering silently.
 3. Stop. Wait for Aji's response.
-4. Incorporate feedback — revise, swap in Aji's own material, or lock it in as approved — before moving to the next section.
+4. **If Aji likes elements of more than one proposed option rather than picking a single winner, don't force a choice — look for how they integrate.** Different options often do different jobs (one paints a picture, one proves the stakes, one gives structure) and can be sequenced so each does its own job, rather than being alternatives competing for the same slot. First case of this: backlog #3's hook combined a sensory analogy with a real-facts passage rather than picking one (see CLAUDE.md → "Signature style," point 1).
+5. Incorporate feedback — revise, swap in Aji's own material, integrate multiple approved options as above, or lock it in as approved — before moving to the next section.
 
 Keep a running note (in your own reasoning, not necessarily written to Aji each time) of which sections are locked, so you don't re-litigate an approved section without being asked to.
 
