@@ -103,7 +103,7 @@ Tighter and faster than the flagship template — no slow-build open loop when t
 2. **The reveal (0:45–1:30):** state the official or assumed explanation, then reject it in plain first-person terms — "Everyone tells you X happens because of Y. It doesn't." No hedging, no rhetorical question standing in for the disagreement.
 3. **The precedent (body, 2–3 sections):** one vivid, real, already-concluded case that proves the pattern is real and has happened before — name the real organisation and the real number where it's public record (that specificity is most of the hook's power), or pull from Aji's own confirmed lived experience. Composite only when nothing real and resolved fits. Each section ends on a bridge.
 4. **The mechanism, compressed:** the abstract cause reduced to one plain, sayable ratio or number a viewer could repeat to a colleague (e.g. "if the same customer exists in six systems, that's six versions of the truth competing for one decision").
-5. **Landing:** a confident, unhedged forward claim about what this means going forward — not a hedge, not "food for thought" — then the takeaway/exercise and next-video tease.
+5. **Landing:** a confident, unhedged forward claim about what this means going forward — not a hedge, not "food for thought." (See "Signature style" below, though: the evidence favours landing *small* — an observation or a tip — over a grand declaration. "Unhedged" and "small" aren't in conflict; a plainly-stated small truth is still unhedged.) Then the takeaway/exercise and next-video tease.
 6. **Sign-off:** one line, never a fade-out.
 
 See "Citing real facts, companies, and cases" below — this template leans on real, named, verifiable cases more than any other, and undercutting that with over-cautious anonymising is a known failure mode (see production-log, backlog #3).
@@ -141,6 +141,16 @@ What still gets minimized or composited: live, ongoing, unresolved situations, a
 8. Cut 15–20% of every draft before filming — padding is felt within seconds.
 9. End with momentum into the next video — last 10 seconds of one video are the first 10 of the next one's audience.
 10. Frameworks and numbers everywhere — compress every concept into something nameable and countable a viewer could repeat to a colleague.
+
+## Signature style — memorability and painting pictures
+
+Sits above all six templates the same way the ten rules do — governs *how* a script is written, not which shape it's in. Synthesised 2026-07-25 from creators Aji specifically wants this channel to learn from: Hannah Fry (via a structural breakdown of 30 of her videos), Rob D. Willis (a communication coach whose core thesis is that memorability is a learnable skill, not a personality trait), and Justin Sung (learning-retention research). Memorability isn't a personality — it's these five habits, applied consistently.
+
+1. **Sensory hook.** Open on a physical, relatable sensation or moment the viewer has actually had — not an abstract framing of the topic. Hannah Fry's own model: "Have you ever noticed your laptop feels slightly buzzy when it's charging?" — not "Today we're talking about static electricity." If the hook could be said about the *category* of topic rather than a specific felt experience, it isn't there yet.
+2. **Discover it with me.** Explain the mechanism as cause-and-effect, one link at a time, so the viewer feels like they're figuring it out alongside the presenter — not being handed the answer up front.
+3. **Build toward a click.** Every explainer should contain at least one genuine reversal: a moment where what seemed to be happening turns out not to be what's actually happening. If a script doesn't have one, the "reveal" probably isn't sharp enough yet.
+4. **Land small.** The strongest endings aren't grand declarations — they're an observation, a dry aside, a practical tip. A small, human close is more memorable than a big one (this refines template 6's landing guidance above, and applies to the other five templates too).
+5. **Share thinking, not research.** Don't cite a fact or a framework to prove the reading got done — voice the actual judgment call underneath it. Rob D. Willis's own lesson, from a talk of his that fell flat specifically because it explained the neuroscience of storytelling instead of telling one: people connect with how you think about a problem, not how much you know about it.
 
 ## Voice and the AI-voice test
 
