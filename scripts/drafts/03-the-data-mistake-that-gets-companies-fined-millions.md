@@ -1,12 +1,12 @@
 # The Data Mistake That Gets Companies Fined Millions (GDPR Explained by a Data Manager)
 
 **Template:** 6 — Myth vs. mechanism / contrarian reveal (CLAUDE.md → Script templates #6)
-**Status:** REVIEWED — ready to film pending Aji's read-aloud pass and the figure check below. `/review-script` applied on top of the collaboratively-built draft. Changes were surgical, not structural: (1) added the missing rule-7 value tease to the hook, teasing the fourth question — the one gap the review found that mattered; (2) paid that tease off explicitly in the landing ("the one I promised you at the start"); (3) fixed three repeated constructions the raw word-count hid ("just sits" ×2, "just never decided/made a decision" ×2, "really just"); (4) broke the long subject-access-request paragraph into three for the ear. Everything else from the collaborative build is preserved verbatim.
+**Status:** REVIEWED — ready to film pending Aji's read-aloud pass and the figure check below. `/review-script` applied on top of the collaboratively-built draft. Changes were surgical, not structural: (1) added the missing rule-7 value tease to the hook, teasing the fourth question — the one gap the review found that mattered; (2) paid that tease off explicitly in the landing ("the one I promised you at the start"); (3) fixed three repeated constructions the raw word-count hid ("just sits" ×2, "just never decided/made a decision" ×2, "really just"); (4) broke the long subject-access-request paragraph into three for the ear. Everything else from the collaborative build is preserved verbatim. **2026-07-27:** Aji caught that the script had no self-introduction anywhere — added a short "if you're new here" credentials beat to the top of THE REVEAL. This was a gap in template 6 itself (templates 1 and 3 have an explicit credibility step; template 6 never did), now fixed at both the template-definition level (CLAUDE.md → Script templates #6) and here.
 **Before filming — verify:** the four fine figures (Meta €1.2bn 2023; British Airways £20m and Marriott £18.4m — both the *reduced final* penalties, correctly stated as such; H&M €35.3m). They match my understanding but they're the highest-risk claims in the script because they're stated as precise facts on camera.
-**Build history:** all sections built via `/build-script`. Hook = sensory "junk drawer" + real named GDPR fines. THE PRECEDENT opens on the actual scene and is fact-corrected on Aji's notes (demographic information not contact details; landed with a direct report not Aji directly; access-request policy created *after* the incident; vaccination-dates story framed as "a Health and Demographic Surveillance System at a health research institution"). THE MECHANISM bridges the two failure modes (accumulation over time vs. fragmentation across systems) with an explicit drawer callback. LANDING: three questions as a named repeatable habit, ethics turn as a fourth question, tease corrected from Video 1 (backwards) to Video 4. Principles and ethics woven throughout per CLAUDE.md → "Leaving the viewer with ethics, principles, and practice."
+**Build history:** all sections built via `/build-script`. Hook = sensory "junk drawer" + real named GDPR fines. THE REVEAL opens with a brief self-introduction (name + relevant credentials, "if you're new here" framing) before the reveal itself — added 2026-07-27. THE PRECEDENT opens on the actual scene and is fact-corrected on Aji's notes (demographic information not contact details; landed with a direct report not Aji directly; access-request policy created *after* the incident; vaccination-dates story framed as "a Health and Demographic Surveillance System at a health research institution"). THE MECHANISM bridges the two failure modes (accumulation over time vs. fragmentation across systems) with an explicit drawer callback. LANDING: three questions as a named repeatable habit, ethics turn as a fourth question, tease corrected from Video 1 (backwards) to Video 4. Principles and ethics woven throughout per CLAUDE.md → "Leaving the viewer with ethics, principles, and practice."
 **Motif/spine:** the cost of the decision nobody made. Two images: the *drawer* (how data ends up where it shouldn't) and the *meeting room* (where the decision didn't happen). Spine = three questions planted in the reveal — what do we hold, why, when were we supposed to stop — restated from a different angle in every section, then handed over as homework. The click: fines punish being *unable to answer*, not being attacked.
 **Principle progression:** plain language first (hook/reveal), one name at the moment it's lived (data minimisation and accuracy in the precedent), then the formal set once the viewer already understands the behaviour (purpose limitation, storage limitation, accountability in the mechanism). Ethics turn lands in the precedent (the vaccination date as a record of whether a child was protected) and again in the landing.
-**Actual runtime:** ~14.7 minutes (~2058 words) — on target; timestamps below reflect this
+**Actual runtime:** ~15.0 minutes (~2,102 words) — right on target; timestamps below reflect this
 **Target runtime:** ~15 minutes (~2,150 words)
 **Thumbnail text:** "NOT A HACK" or "THE REAL REASON" (with Aji, direct to camera)
 **Description/tags:** GDPR explained, data protection fines, GDPR mistakes, data governance, GDPR compliance, data manager explains
@@ -33,7 +33,9 @@ But here's the uncomfortable truth. Behind most of these fines, there's no evil 
 
 I'm going to show you exactly what that decision looks like, and why it costs so much. And stay to the end, because I'll give you the one question I ask myself when I'm genuinely unsure about a record. It has no legal force whatsoever. It's still the fastest way I know to get to the right answer.
 
-### THE REVEAL (1:52–4:11)
+### THE REVEAL (1:52–4:30)
+
+If you're new here — I'm Aji Saine. Twelve-plus years in data management, and I've worked this exact problem from both sides: building the systems that hold people's data, and now managing statutory reporting for a UK university, where getting it wrong isn't hypothetical.
 
 Breaches happen, and they do get punished — that part's true. But look past the headline, at what the regulator's own investigation usually describes, and a striking share of the biggest fines involve no attacker at all. The organisation simply couldn't answer a basic question about its own data: what do we hold, why do we hold it, and when were we supposed to stop holding it?
 
@@ -45,7 +47,7 @@ Plenty of organisations can answer it within days. Plenty of others discover, in
 
 That's not a break-in. Nobody forced their way past anything. The information was sitting right where the organisation put it — nobody had ever decided, clearly, whether it should still be there. Call it what it is: not a security failure. A governance failure. And governance failures don't announce themselves. Nothing breaks. No alarm fires. It sits there, patiently, until the day someone with real authority finally asks the one question the organisation was never prepared to answer.
 
-### THE PRECEDENT (4:11–8:11)
+### THE PRECEDENT (4:30–8:30)
 
 I've watched this exact test happen twice, in two very different jobs.
 
@@ -67,7 +69,7 @@ Most organisations don't get that early warning. Their version of the same mista
 
 What connects those two moments isn't the sector, or the scale — it's that in both cases, the fix wasn't a piece of software. It was a person willing to stop a request in progress and ask an uncomfortable question out loud, in a room, when saying nothing and letting it through would have been so much easier. Regulators can't inspect an organisation's intentions. They can only inspect what happened to the data — and what happened almost always traces back to whether that person existed, or whether the request just sailed through because nobody was in the room to stop it.
 
-### THE MECHANISM, COMPRESSED (8:11–11:17)
+### THE MECHANISM, COMPRESSED (8:30–11:36)
 
 If the same person's data exists in five systems and nobody's sure which one's correct, that's not five records. That's one person you can no longer honestly answer "what do we hold on you" about.
 
@@ -85,7 +87,7 @@ Ten years on, that company holds accurate, current, explainable data on its acti
 
 And you can test this on your own organisation in under a minute — you don't need my job title to do it. Ask anyone: "if I asked you what personal data of mine you're holding right now, and why, could you tell me?" Watch the pause before the answer. That pause is the mechanism. It's the same pause, at a much bigger scale, sitting inside every regulator's investigation report.
 
-### LANDING (11:17–14:12)
+### LANDING (11:36–14:31)
 
 So let's land this.
 
@@ -105,7 +107,7 @@ That question has no legal force whatsoever. It isn't in any regulation. And it'
 
 Now — everything today assumed the data was worth protecting in the first place. But what if it's wrong? Wrong data gets protected too. It gets backed up, secured, retained beautifully — and then somebody makes a decision on it. There's a reason your colleagues quietly don't trust the reports in your organisation, and next time I'll show you exactly why that happens and how to fix it. Watch that one before your next big meeting.
 
-### THE CLOSE (14:12–14:38)
+### THE CLOSE (14:31–14:57)
 
 If this was useful, like the video and subscribe. And send it to the person in your organisation who's never once stopped to ask whether they still need what they're holding onto. You know the one.
 
@@ -113,6 +115,6 @@ I'll leave you with this.
 
 Nobody's asking you to never have a drawer. Every organisation has one. The difference is whether you know what's in it.
 
-### SIGN-OFF (14:38–14:41)
+### SIGN-OFF (14:57–15:00)
 
 I'll see you in the next one.
