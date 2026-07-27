@@ -1,10 +1,10 @@
 # The Data Mistake That Gets Companies Fined Millions (GDPR Explained by a Data Manager)
 
 **Template:** 6 — Myth vs. mechanism / contrarian reveal (CLAUDE.md → Script templates #6)
-**Status:** Drafted — reworked via `/build-script` (2026-07-25). Hook rebuilt (sensory "junk drawer" + real named GDPR fines: Meta, British Airways, Marriott, H&M), reveal trimmed to match. THE PRECEDENT reworked to open on the actual scene rather than a summary, and fact-corrected on Aji's notes (demographic information not contact details; landed with a direct report not Aji directly; access-request policy created *after* the incident; vaccination-dates story framed as "a Health and Demographic Surveillance System at a health research institution"). THE MECHANISM reworked with a bridge reconciling the two failure modes (accumulation over time vs. fragmentation across systems) and an explicit callback to the drawer. Principles and ethics woven through hook→mechanism per CLAUDE.md → "Leaving the viewer with ethics, principles, and practice." **Landing not yet reworked.** Needs `/review-script` before filming.
+**Status:** Draft complete — all sections reworked via `/build-script` (2026-07-25). Hook rebuilt (sensory "junk drawer" + real named GDPR fines: Meta, British Airways, Marriott, H&M), reveal trimmed to match. THE PRECEDENT reworked to open on the actual scene rather than a summary, and fact-corrected on Aji's notes (demographic information not contact details; landed with a direct report not Aji directly; access-request policy created *after* the incident; vaccination-dates story framed as "a Health and Demographic Surveillance System at a health research institution"). THE MECHANISM reworked with a bridge reconciling the two failure modes (accumulation over time vs. fragmentation across systems) and an explicit callback to the drawer. LANDING rebuilt: three questions became a named repeatable habit, ethics turn added as a fourth question that outranks the other three, tease corrected from Video 1 (backwards) to Video 4, and it now lands small on the drawer. Principles and ethics woven throughout per CLAUDE.md → "Leaving the viewer with ethics, principles, and practice." Ready for `/review-script`.
 **Motif/spine:** the cost of the decision nobody made. Two images: the *drawer* (how data ends up where it shouldn't) and the *meeting room* (where the decision didn't happen). Spine = three questions planted in the reveal — what do we hold, why, when were we supposed to stop — restated from a different angle in every section, then handed over as homework. The click: fines punish being *unable to answer*, not being attacked.
 **Principle progression:** plain language first (hook/reveal), one name at the moment it's lived (data minimisation and accuracy in the precedent), then the formal set once the viewer already understands the behaviour (purpose limitation, storage limitation, accountability in the mechanism). Ethics turn lands in the precedent (the vaccination date as a record of whether a child was protected) and again in the landing.
-**Actual runtime:** ~14.1 minutes (~1,980 words) — on target; timestamps below reflect this
+**Actual runtime:** ~13.9 minutes (~1,950 words) — on target; timestamps below reflect this
 **Target runtime:** ~15 minutes (~2,150 words)
 **Thumbnail text:** "NOT A HACK" or "THE REAL REASON" (with Aji, direct to camera)
 **Description/tags:** GDPR explained, data protection fines, GDPR mistakes, data governance, GDPR compliance, data manager explains
@@ -77,20 +77,28 @@ Ten years on, that company holds accurate, current, explainable data on its acti
 
 And you can test this on your own organisation in under a minute — you don't need my job title to do it. Ask anyone: "if I asked you what personal data of mine you're holding right now, and why, could you tell me?" Watch the pause before the answer. That pause is the mechanism. It's the same pause, at a much bigger scale, sitting inside every regulator's investigation report.
 
-### LANDING (10:53–14:03)
+### LANDING (10:53–13:53)
 
-This isn't going away, and it isn't going to get softer. Regulators have spent the years since 2018 getting better at this kind of investigation — not looking for a break-in, looking for the paper trail of decisions an organisation never made. The organisations that get caught out next won't be the reckless ones. They'll be the ordinary ones who assumed "we haven't been hacked" meant "we're fine."
+So let's land this.
 
-This has very little to do with the law, and everything to do with a discipline most organisations never built in the first place. GDPR didn't invent the obligation to know what you're holding and why. It just put a fine on the organisations that never bothered to find out — and gave the rest of us a clean, plain-language reason to finally build the discipline we should have had regardless.
+The fines at the start of this video weren't punishment for being attacked. They were punishment for not being able to answer — what do we hold, why do we hold it, when were we supposed to stop. Nobody in those meeting rooms set out to break a law. They just never made a decision. And "never decided" is a decision too — it's the most expensive one on that list.
 
-None of this requires a bigger legal team, or expensive new software. The loyalty-scheme company from a moment ago could close most of its exposure in a single afternoon: one person going through each major system, writing down what's in it, why, and when it should go, then actually scheduling the deletion instead of noting it as a good idea for later. The technology to enforce a retention date has existed for decades. What's usually missing is a decision, made once, by someone with the standing to make it stick — which is a data management problem wearing a legal costume, not the other way round.
+The good news is that fixing it doesn't need a bigger legal team or new software. That loyalty-scheme company could close most of its exposure in an afternoon: one person going through each system, writing down what's in it, why, and when it goes — then actually scheduling the deletion instead of noting it as a good idea for later. The technology to enforce a retention date has existed for decades. What's missing is the decision, made once, by someone with the standing to make it stick.
 
-Here's what to do with that. This week, pick one piece of personal data your own team holds, and answer three questions about it, honestly: what is it, why do we have it, and when does it stop being ours to hold? If any one of those makes you pause, you've found the exact gap regulators are trained to look for — and you found it before they did.
+So here's the habit I'd give you. Call it the three-question check, and run it on one dataset a week — not once, as a project. Every week. What is this? Why do we have it? When does it stop being ours to hold?
 
-Do it with real honesty, not the kind that protects your own team's reputation, and you'll likely find at least one answer you don't like. That's not a failure on your part — most organisations would fail the same test, which is precisely why the fines keep happening. It's the first accurate map anyone's drawn of that particular gap, and an accurate map, however uncomfortable, is worth more than the comfortable assumption it replaces. You can't fix what you've never been willing to look at honestly, and most organisations have simply never looked.
+If any one of those makes you pause, you've found the gap regulators are trained to look for — and you found it first.
 
-Next time, I'll show you what this looks like from the inside — the specific, unglamorous judgment calls a data manager makes to stop this exact gap from opening in the first place. Watch that one next.
+But there's a fourth question, and it's the one that does the real work. When you're looking at a record and you're genuinely unsure — whether to keep it, share it, copy it into that spreadsheet — picture the person that record describes standing behind you, reading your screen over your shoulder.
 
-### SIGN-OFF (14:03–14:06)
+Would you be comfortable?
+
+That question has no legal force whatsoever. It isn't in any regulation. It's also the fastest way I know to get to the right answer, and it works long before a lawyer would ever need to be involved.
+
+Now — everything today assumed the data was worth protecting in the first place. But what if it's wrong? Wrong data gets protected too. It gets backed up, secured, retained beautifully — and then somebody makes a decision on it. There's a reason your colleagues quietly don't trust the reports in your organisation, and next time I'll show you exactly why that happens and how to fix it. Watch that one before your next big meeting.
+
+And look — nobody's asking you to never have a drawer. Every organisation has one. Just know what's in it.
+
+### SIGN-OFF (13:53–13:56)
 
 I'll see you in the next one.
