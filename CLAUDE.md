@@ -110,6 +110,16 @@ See "Citing real facts, companies, and cases" below — this template leans on r
 
 The ten scripting rules below still apply in full — hook fast, write for the ear, re-hook often, concrete over abstract, cut 15–20%, end with momentum. What changes is the shape carrying them: narrative arc instead of argument-building. Rule 10 (frameworks and numbers) is the one to lean on least here — a named framework is a teaching-video device, and overusing it in identity content is what makes the channel start to feel like one template with new words in it.
 
+## How every video closes (all six templates)
+
+The landing is not the end of the video. Every script — regardless of template — closes with three distinct beats after the landing's takeaway and next-video tease. This is already the channel's established pattern (see `scripts/produced/02-what-is-data-management.md`); it was left undocumented until 2026-07-25 and a draft dropped it entirely as a result.
+
+1. **CTA with a specific, knowing share instruction.** Like/subscribe, then tell the viewer exactly who to send it to — and make that person recognisable, not generic. Video 2: "share it with that one colleague." Backlog #3: "send it to the person in your organisation who's never once stopped to ask whether they still need what they're holding onto. You know the one." A generic "share with someone who'd find this useful" wastes the beat.
+2. **"I'll leave you with this" + one final thought.** The genuine last idea — an observation, not a rallying cry. This is compatible with "land small" (see Signature style) as long as it stays an observation about how the work actually is, rather than a grand declaration. It's usually the most quotable line in the script, and it's the last thing the viewer hears before the sign-off, so it should be the one you'd want them to repeat.
+3. **Sign-off:** one line, never a fade-out. "I'll see you in the next one."
+
+A note on the CTA's share instruction: make it about the *behaviour* the video is correcting, never a behaviour the video would be wrong to encourage. An early version of backlog #3's CTA said "send it to the person who's never deleted anything in their life" — which quietly teaches that deleting is the goal, when the video's entire argument is that *deciding* is the goal. Check the share line against the script's actual thesis before locking it.
+
 ## Content generation process
 
 A template is a **skeleton** — hook length, section count, where the framework lands. It is never the ceiling on how rich the content inside it gets, and a script that's structurally perfect but built from thin material is still a weak script. This happened once already (see production-log, backlog #3: a six-template comparison that only ever compared six thin drafts against each other, never against genuinely strong material) — these six phases exist to stop it happening again. Run all six for every script, not just when something feels missing.

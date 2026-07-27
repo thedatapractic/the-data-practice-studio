@@ -4,7 +4,7 @@
 **Status:** Draft complete — all sections reworked via `/build-script` (2026-07-25). Hook rebuilt (sensory "junk drawer" + real named GDPR fines: Meta, British Airways, Marriott, H&M), reveal trimmed to match. THE PRECEDENT reworked to open on the actual scene rather than a summary, and fact-corrected on Aji's notes (demographic information not contact details; landed with a direct report not Aji directly; access-request policy created *after* the incident; vaccination-dates story framed as "a Health and Demographic Surveillance System at a health research institution"). THE MECHANISM reworked with a bridge reconciling the two failure modes (accumulation over time vs. fragmentation across systems) and an explicit callback to the drawer. LANDING rebuilt: three questions became a named repeatable habit, ethics turn added as a fourth question that outranks the other three, tease corrected from Video 1 (backwards) to Video 4, and it now lands small on the drawer. Principles and ethics woven throughout per CLAUDE.md → "Leaving the viewer with ethics, principles, and practice." Ready for `/review-script`.
 **Motif/spine:** the cost of the decision nobody made. Two images: the *drawer* (how data ends up where it shouldn't) and the *meeting room* (where the decision didn't happen). Spine = three questions planted in the reveal — what do we hold, why, when were we supposed to stop — restated from a different angle in every section, then handed over as homework. The click: fines punish being *unable to answer*, not being attacked.
 **Principle progression:** plain language first (hook/reveal), one name at the moment it's lived (data minimisation and accuracy in the precedent), then the formal set once the viewer already understands the behaviour (purpose limitation, storage limitation, accountability in the mechanism). Ethics turn lands in the precedent (the vaccination date as a record of whether a child was protected) and again in the landing.
-**Actual runtime:** ~13.9 minutes (~1,950 words) — on target; timestamps below reflect this
+**Actual runtime:** ~14.2 minutes (~1,990 words) — on target; timestamps below reflect this
 **Target runtime:** ~15 minutes (~2,150 words)
 **Thumbnail text:** "NOT A HACK" or "THE REAL REASON" (with Aji, direct to camera)
 **Description/tags:** GDPR explained, data protection fines, GDPR mistakes, data governance, GDPR compliance, data manager explains
@@ -77,7 +77,7 @@ Ten years on, that company holds accurate, current, explainable data on its acti
 
 And you can test this on your own organisation in under a minute — you don't need my job title to do it. Ask anyone: "if I asked you what personal data of mine you're holding right now, and why, could you tell me?" Watch the pause before the answer. That pause is the mechanism. It's the same pause, at a much bigger scale, sitting inside every regulator's investigation report.
 
-### LANDING (10:53–13:53)
+### LANDING (10:53–13:45)
 
 So let's land this.
 
@@ -97,8 +97,14 @@ That question has no legal force whatsoever. It isn't in any regulation. It's al
 
 Now — everything today assumed the data was worth protecting in the first place. But what if it's wrong? Wrong data gets protected too. It gets backed up, secured, retained beautifully — and then somebody makes a decision on it. There's a reason your colleagues quietly don't trust the reports in your organisation, and next time I'll show you exactly why that happens and how to fix it. Watch that one before your next big meeting.
 
-And look — nobody's asking you to never have a drawer. Every organisation has one. Just know what's in it.
+### THE CLOSE (13:45–14:11)
 
-### SIGN-OFF (13:53–13:56)
+If this was useful, like the video and subscribe. And send it to the person in your organisation who's never once stopped to ask whether they still need what they're holding onto. You know the one.
+
+I'll leave you with this.
+
+Nobody's asking you to never have a drawer. Every organisation has one. The difference is whether you know what's in it.
+
+### SIGN-OFF (14:11–14:14)
 
 I'll see you in the next one.
