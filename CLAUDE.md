@@ -152,6 +152,14 @@ Sits above all six templates the same way the ten rules do — governs *how* a s
 4. **Land small.** The strongest endings aren't grand declarations — they're an observation, a dry aside, a practical tip. A small, human close is more memorable than a big one (this refines template 6's landing guidance above, and applies to the other five templates too).
 5. **Share thinking, not research.** Don't cite a fact or a framework to prove the reading got done — voice the actual judgment call underneath it. Rob D. Willis's own lesson, from a talk of his that fell flat specifically because it explained the neuroscience of storytelling instead of telling one: people connect with how you think about a problem, not how much you know about it.
 
+## Leaving the viewer with ethics, principles, and practice
+
+Standing instruction from Aji, 2026-07-25: whatever a script's topic or template, factor in where it points the viewer afterward. Diagnosis alone isn't the goal — the channel sells *becoming the kind of professional who is trusted with data*, so a script that explains a problem brilliantly and leaves the viewer with nothing to adopt has only done half its job. Three things to weigh in every script, without letting them turn it into a lecture:
+
+1. **Name the real principle, once, in passing.** When a script describes something that has an actual name in GDPR, DAMA-DMBOK, or standard practice — purpose limitation, data minimisation, retention, accountability, stewardship — say the name once, plainly, then move on. It gives the viewer a term they can search and cite at work, and it signals the channel knows the formal ground it's standing on without reciting regulation. Never lead with the term; lead with the plain-language version and let the name land after.
+2. **Turn compliance into ethics at least once.** The strongest material in this channel's archive is ethical, not procedural — "treat every record as if it belonged to your own mother," and the self-check "if the person this record describes were standing behind me right now, watching my screen, would I be comfortable?" Compliance says *what you must do*; ethics says *why you'd do it anyway*. A script that only teaches the first is forgettable. The landing is usually the natural home for this turn, and it fits "land small" — an ethical close is human and specific, not a grand declaration.
+3. **Make the takeaway portable.** The homework/exercise should be something the viewer can run tomorrow *and repeat*, not a one-off thought experiment — a question to ask in a meeting, a check to run on a dataset, a plan to write. Best practice sticks when it's a habit with a name, not advice.
+
 ## Voice and the AI-voice test
 
 Practitioner speaking from experience — warm, direct, UK English, natural asides, occasional informality. Before anything is considered finished, check for machine-voice symptoms and rewrite any passage that sounds written rather than spoken:

@@ -1,8 +1,9 @@
 # The Data Mistake That Gets Companies Fined Millions (GDPR Explained by a Data Manager)
 
 **Template:** 6 — Myth vs. mechanism / contrarian reveal (CLAUDE.md → Script templates #6)
-**Status:** Drafted — reworked via `/build-script` (2026-07-25): hook rebuilt (sensory "junk drawer" + real named GDPR fines: Meta, British Airways, Marriott, H&M), reveal trimmed to match. THE PRECEDENT reworked to open on the actual scene rather than a summary, and corrected on Aji's factual notes: the request was for demographic information (not contact details), landed with a direct report (not Aji directly), and the access-request policy was created *after* this incident, not already in place — plus the vaccination-dates story now framed as "a Health and Demographic Surveillance System at a health research institution" rather than naming the region. Mechanism and landing not yet reworked. Needs `/review-script` before filming.
-**Actual runtime:** ~12.3 minutes (~1,720 words) — under the 15 min target; timestamps below reflect this
+**Status:** Drafted — reworked via `/build-script` (2026-07-25). Hook rebuilt (sensory "junk drawer" + real named GDPR fines: Meta, British Airways, Marriott, H&M), reveal trimmed to match. THE PRECEDENT reworked to open on the actual scene rather than a summary, and fact-corrected on Aji's notes (demographic information not contact details; landed with a direct report not Aji directly; access-request policy created *after* the incident; vaccination-dates story framed as "a Health and Demographic Surveillance System at a health research institution"). THE MECHANISM reworked with a bridge reconciling the two failure modes (accumulation over time vs. fragmentation across systems) and an explicit callback to the drawer. **Landing not yet reworked — see the note below it.** Needs `/review-script` before filming.
+**Motif/spine:** the cost of the decision nobody made. Two images: the *drawer* (how data ends up where it shouldn't) and the *meeting room* (where the decision didn't happen). Spine = three questions planted in the reveal — what do we hold, why, when were we supposed to stop — restated from a different angle in every section, then handed over as homework. The click: fines punish being *unable to answer*, not being attacked.
+**Actual runtime:** ~12.6 minutes (~1,770 words) — under the 15 min target; timestamps below reflect this
 **Target runtime:** ~15 minutes (~2,150 words)
 **Thumbnail text:** "NOT A HACK" or "THE REAL REASON" (with Aji, direct to camera)
 **Description/tags:** GDPR explained, data protection fines, GDPR mistakes, data governance, GDPR compliance, data manager explains
@@ -51,17 +52,23 @@ When I worked on a Health and Demographic Surveillance System at a health resear
 
 What connects those two moments isn't the sector, or the scale — it's that in both cases, the fix wasn't a piece of software. It was a person willing to stop a request in progress and ask an uncomfortable question out loud, in a room, when saying nothing and letting it through would have been so much easier. Regulators can't inspect an organisation's intentions. They can only inspect what happened to the data — and what happened almost always traces back to whether that person existed, or whether the request just sailed through because nobody was in the room to stop it.
 
-### THE MECHANISM, COMPRESSED (6:45–9:03)
+### THE MECHANISM, COMPRESSED (6:45–9:24)
 
-Here's the whole thing in one line you could repeat to a colleague: if the same person's data exists in five systems and nobody's sure which one's correct, that's not five records. That's one person you can no longer honestly answer "what do we hold on you" about.
+If the same person's data exists in five systems and nobody's sure which one's correct, that's not five records. That's one person you can no longer honestly answer "what do we hold on you" about.
 
-Every fine, underneath the legal language, comes back to that same broken sentence, repeated thousands of times across an organisation's systems. Purpose nobody re-checks. Retention nobody enforces. Access nobody scopes. None of it looks dramatic from the inside. It looks like Tuesday. That's why it survives so long before anyone notices — there's no alarm, no error message, just a slow accumulation of unanswered questions until the day someone with real authority finally asks one.
+Those are the two ways this goes wrong, and they compound. The drawer is about time — data still sitting there years after anyone needed it. The five systems are about space — the same person, scattered, with no version anyone can point to as the true one. Different failures. Same ending: a question about a real person that your organisation cannot answer.
 
-Picture an ordinary mid-sized company running a customer loyalty scheme. A person signs up once, gets a discount code, and never interacts with the brand again. Nobody decides to keep their data forever — nobody decides anything. The record just survives every system migration, every re-platforming, every "let's not touch that table, we don't know what depends on it," because deleting it was never anyone's job and leaving it alone was always the easier call. Ten years later, that one company might be holding accurate, current, easily explainable data on its active customers, and a decade of silent, unexplainable clutter on everyone else. From the outside, both look identical: rows in a database. A regulator's investigation is really just the process of discovering which rows are which.
+And that ending is what's underneath every fine on that list. Purpose nobody re-checks — that's the principle lawyers call purpose limitation. Retention nobody enforces. Access nobody scopes. None of it looks dramatic from the inside. It looks like Tuesday.
 
-You can test this on your own organisation in under a minute, and you don't need my job title to do it. Ask anyone — genuinely anyone — "if I asked you what personal data of mine you're holding right now, and why, could you tell me?" Watch the pause before the answer. That pause is the mechanism. It's the same pause, at a much bigger scale, sitting inside every regulator's investigation report.
+Here's how it actually happens — and it's the drawer again, just bigger.
 
-### LANDING (9:03–12:13)
+Picture an ordinary mid-sized company running a customer loyalty scheme. A person signs up once, gets a discount code, and never comes back. Nobody decides to keep their data forever. Nobody decides anything at all. Then the company changes CRM, and that record gets migrated across, because migrating everything is easier than deciding what's worth migrating. Then it changes again, and the same thing happens. Somewhere in year four, someone opens that table, doesn't recognise half of what's in it, and quietly leaves it alone — because nobody wants to be the person who deleted something that turned out to matter.
+
+Ten years on, that company holds accurate, current, explainable data on its active customers — and a decade of silent clutter on everyone else. From the outside, both look identical. Rows in a database. A regulator's investigation is really just the process of finding out which rows are which.
+
+And you can test this on your own organisation in under a minute — you don't need my job title to do it. Ask anyone: "if I asked you what personal data of mine you're holding right now, and why, could you tell me?" Watch the pause before the answer. That pause is the mechanism. It's the same pause, at a much bigger scale, sitting inside every regulator's investigation report.
+
+### LANDING (9:24–12:34)
 
 This isn't going away, and it isn't going to get softer. Regulators have spent the years since 2018 getting better at this kind of investigation — not looking for a break-in, looking for the paper trail of decisions an organisation never made. The organisations that get caught out next won't be the reckless ones. They'll be the ordinary ones who assumed "we haven't been hacked" meant "we're fine."
 
@@ -75,6 +82,6 @@ Do it with real honesty, not the kind that protects your own team's reputation, 
 
 Next time, I'll show you what this looks like from the inside — the specific, unglamorous judgment calls a data manager makes to stop this exact gap from opening in the first place. Watch that one next.
 
-### SIGN-OFF (12:13–12:16)
+### SIGN-OFF (12:34–12:37)
 
 I'll see you in the next one.
