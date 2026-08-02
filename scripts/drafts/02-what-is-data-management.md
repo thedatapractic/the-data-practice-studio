@@ -29,11 +29,9 @@ So — why.
 
 Think about the last time you moved house. You told your bank. You told your GP. And for months afterwards, post still turned up at the old address — from one department of a company that had definitely been told, while another department got it right.
 
-Nobody there was incompetent. What happened is that your new address never moved through their systems. It was copied into one of them.
+Nobody there was incompetent. Your new address went into the one system you'd actually contacted. The old address stayed exactly where it was in the other four — because telling a company something once doesn't make its systems agree with each other.
 
-And that's the first strange thing about data: you don't spend it. Spend a pound and it's gone. Copy a dataset and now there are two, and both look equally official.
-
-So one system learned you'd moved, and four didn't. That's how the same fact ends up living in five places at once — and once it does, the copies drift. Someone updates one. Nobody updates the rest. Until no one can tell you which version is true.
+So the same fact about you now lives in five places, and four of them are wrong. That's what data does: it copies. And copies drift — someone corrects one, nobody corrects the rest — until no one can tell you which version is true.
 
 Now, here's what makes that dangerous rather than annoying. Nothing announced it. No alarm went off the day your two addresses stopped matching.
 
