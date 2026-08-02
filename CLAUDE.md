@@ -47,7 +47,22 @@ Every video belongs to exactly one pillar:
 
 ## Format
 
-Long-form is primary (target ~15 min, ~140 spoken words/minute → ~2,150 words) for the flagship and identity templates below. Search-intent and listicle videos are allowed to run shorter (~8–12 min) — they're built for a faster payoff and padding to 15 min hurts them. Short-form clips are cut *from* finished long-form scripts to widen reach, not written separately from scratch.
+Long-form is primary, targeting **7–8 minutes (~980–1,120 words at ~140 spoken words/minute)**. Changed 2026-08-02 from a ~15 minute target, at Aji's decision: the long videos were slow to produce and hard to hold in one head before filming, and the shorter format lets the channel publish more often — which matters more to this channel than length does.
+
+Shorter does **not** mean thinner. What gets cut is material that was never serving the video's purpose in the first place — see "One purpose per video" below. The messages a video exists to deliver survive the cut intact.
+
+Search-intent and listicle videos sit at the lower end of the band (~7 min); flagship and identity videos at the upper end (~8 min), and may reach ~9 if the argument genuinely needs the room — but ~9 is a ceiling to be justified, not a target to drift toward. Short-form clips are cut *from* finished long-form scripts to widen reach, not written separately from scratch.
+
+## One purpose per video — the clarity discipline
+
+Standing instruction from Aji, 2026-08-02, introduced alongside the move to 7–8 minute videos. **Clarity and ease of understanding are this channel's most important values** — above completeness, above cleverness, above demonstrating range.
+
+Every video has **one purpose**, decided before drafting starts and written as one sentence in the script's header. That sentence is the test every other decision has to pass.
+
+- **One topic, hook to sign-off.** The whole video explains one thing. Subtopics are allowed and often necessary, but each one has to be in service of explaining the main topic — not a detour that happens to be interesting.
+- **Every sentence earns its place.** A sentence survives only if it improves the viewer's understanding of the stated purpose. Not because it's true, not because it's a good line, not because it shows range or credibility. If it doesn't move understanding forward on *this* topic, cut it or compress it to a clause.
+- **A cut topic is a future video, not a loss.** When something genuinely strong doesn't serve this video's purpose, it goes to `backlog.md` as a candidate instead of being squeezed in. The higher publishing frequency is exactly what makes that affordable.
+- **The storyline still has to be a journey.** Rule 4 does not relax because the video is shorter — a tight 7-minute argument still needs real bridges between sections, not a list of compressed facts.
 
 ## Script templates — pick one per video, every time
 
@@ -57,17 +72,17 @@ The ten scripting rules (below) are the floor under all six — hook fast, write
 
 ### 1. Flagship / deep-dive teaching
 **Use for:** cornerstone pillars 1–3 videos that need to walk the viewer through a whole argument, especially when the point requires unlearning a misconception first. Video 2 is the model.
-1. **Hook (0:00–0:45):** open with the viewer's problem, promise the payoff, plant an open loop — don't give the answer yet.
-2. **Credibility + promise (to ~2:00):** who you are in one breath, what the viewer will be able to do by the end.
-3. **Body (3–5 sections):** each section builds on the last and ends on a bridge that raises the next section's question. The framework gets assembled piece by piece, not handed over up front.
+1. **Hook (0:00–0:30):** open with the viewer's problem, promise the payoff, plant an open loop — don't give the answer yet.
+2. **Credibility + promise (to ~1:00):** who you are in one breath, what the viewer will be able to do by the end. At this runtime this is two or three sentences, not a segment.
+3. **Body (3 sections, 4 only if the argument genuinely needs it):** each section builds on the last and ends on a bridge that raises the next section's question. The framework gets assembled piece by piece, not handed over up front.
 4. **Landing:** restate the argument in 3–4 sentences, deliver the promised exercise, tease next video.
 5. **Sign-off:** one line, never a fade-out.
 
 ### 2. Search-intent / direct-answer explainer
 **Use for:** evergreen search titles where the viewer typed a specific question and wants the answer now — "what is X", "is [certification] worth it", "X explained for beginners". Viewers decide whether to stay within seconds on this kind of content, and give the result before the reasoning, not after.
-1. **Hook (0:00–0:20):** state the direct answer, or the shape of it, immediately — no extended open loop. One line on why the question matters.
-2. **Context (0:20–1:00):** why this trips people up, what's actually at stake in getting it wrong.
-3. **Breakdown (body, 3–4 short sections):** unpack the answer piece by piece, each with a concrete example.
+1. **Hook (0:00–0:15):** state the direct answer, or the shape of it, immediately — no extended open loop. One line on why the question matters.
+2. **Context (0:15–0:45):** why this trips people up, what's actually at stake in getting it wrong.
+3. **Breakdown (body, 3 short sections):** unpack the answer piece by piece, each with a concrete example.
 4. **Practical application:** what the viewer does with this tomorrow.
 5. **Recap + CTA:** quick summary, tease next video.
 
@@ -75,9 +90,9 @@ Tighter and faster than the flagship template — no slow-build open loop when t
 
 ### 3. Career-thread / multi-chapter reflection
 **Use for:** identity videos (pillar 5) about the nature of the work itself, not a literal single day and not a single change — "what this job actually is," drawn from several chapters of a career. Video 1 is the model. Note: this is deliberately close in mechanics to the flagship template (an argument, assembled toward a nameable framework) — the difference is the evidence is personal lived moments, not a body of knowledge, and the "credibility" beat carries more weight since the presenter's range across chapters *is* the argument.
-1. **Hook (0:00–0:45):** open with one small, sharp real moment that captures the misconception or reveals the texture of the work — not a rhetorical "let me ask you a question."
-2. **Credibility + promise (to ~2:00):** who you are, and the breadth of chapters the video's about to draw on, in one breath — what the viewer will understand about the work by the end.
-3. **Body (3–5 sections):** each section pulls one thread through two or three real moments from different chapters of the career — different jobs, different years, same underlying pattern. Chronological narrative markers ("back in my developer years... years later... and it's still happening now"), never ordinal labels ("first... second... third"). Sections build toward a nameable framework that names the pattern across all of them, assembled piece by piece. Each section ends on a bridge.
+1. **Hook (0:00–0:30):** open with one small, sharp real moment that captures the misconception or reveals the texture of the work — not a rhetorical "let me ask you a question."
+2. **Credibility + promise (to ~1:00):** who you are, and the breadth of chapters the video's about to draw on, in one breath — what the viewer will understand about the work by the end.
+3. **Body (3 sections):** each section pulls one thread through two real moments from different chapters of the career — different jobs, different years, same underlying pattern. Chronological narrative markers ("back in my developer years... years later... and it's still happening now"), never ordinal labels ("first... second... third"). Sections build toward a nameable framework that names the pattern across all of them, assembled piece by piece. Each section ends on a bridge.
 4. **Landing:** recap the framework in a line or two, deliver a takeaway/exercise, tease next video.
 5. **Sign-off:** one line, never a fade-out.
 
@@ -91,17 +106,17 @@ Tighter and faster than the flagship template — no slow-build open loop when t
 
 ### 5. Listicle / shareable countdown
 **Use for:** shareable list-format videos (backlog #6, "signs your company has a data problem," is the model) — cross-pillar, works for any pillars 1–3 content that's inherently enumerable. The one template where being "listy" is correct, not an AI-voice problem — it's the genre.
-1. **Hook (under 20 words, ~0:00–0:20):** tease the standout item without naming it, and signal the order is intentional, not random.
-2. **Quick setup (~0:20–0:45):** why this list matters, what qualifies an item.
+1. **Hook (under 20 words, ~0:00–0:15):** tease the standout item without naming it, and signal the order is intentional, not random.
+2. **Quick setup (~0:15–0:35):** why this list matters, what qualifies an item.
 3. **The items (body):** each gets its own mini hook–example–stakes. Vary sentence pace (short and punchy vs. one slower beat) so items don't blur together.
 4. **Mid-video retention beat (~50% mark):** explicitly flag what's coming — "item four is the one I see in almost every organisation I've worked with." This single beat is the biggest retention lever in this format — don't skip it.
 5. **Recap + CTA:** quick summary, tease next video.
 
 ### 6. Myth vs. mechanism (contrarian reveal)
 **Use for:** cross-pillar, especially case-study-driven pillar 1–3 topics — backlog #3, "the data mistake that gets companies fined millions," is the natural home. Modelled on the storytelling mechanics of The Jay Martin Show (style only — never the content or subject matter). The engine of this template is disagreement, not a cliffhanger question: state what people assume is true, then say plainly that it isn't.
-1. **Hook — the turning point (0:00–0:45):** open on a dated or vivid moment framed like history-in-the-making — a regulation's effective date, an already-concluded real case (name it — see "Citing real facts" below), or a composited/anonymised scene if nothing real fits. The date, number, or moment carries the weight.
-2. **The reveal (0:45–1:30):** open with a brief self-introduction — name and the credentials relevant to *this* topic specifically, one or two sentences, "if you're new here" framing so it doesn't alienate returning viewers. Then state the official or assumed explanation, and reject it in plain first-person terms — "Everyone tells you X happens because of Y. It doesn't." No hedging, no rhetorical question standing in for the disagreement. (This template has no separate credibility beat the way templates 1 and 3 do — it's folded into the reveal's opening so the hook stays purely sensory/evidence-driven. Missing it entirely was a real gap caught on backlog #3's finished draft — check every script against this before calling it done.)
-3. **The precedent (body, 2–3 sections):** one vivid, real, already-concluded case that proves the pattern is real and has happened before — name the real organisation and the real number where it's public record (that specificity is most of the hook's power), or pull from Aji's own confirmed lived experience. Composite only when nothing real and resolved fits. Each section ends on a bridge.
+1. **Hook — the turning point (0:00–0:30):** open on a dated or vivid moment framed like history-in-the-making — a regulation's effective date, an already-concluded real case (name it — see "Citing real facts" below), or a composited/anonymised scene if nothing real fits. The date, number, or moment carries the weight.
+2. **The reveal (0:30–1:05):** open with a brief self-introduction — name and the credentials relevant to *this* topic specifically, one or two sentences, "if you're new here" framing so it doesn't alienate returning viewers. Then state the official or assumed explanation, and reject it in plain first-person terms — "Everyone tells you X happens because of Y. It doesn't." No hedging, no rhetorical question standing in for the disagreement. (This template has no separate credibility beat the way templates 1 and 3 do — it's folded into the reveal's opening so the hook stays purely sensory/evidence-driven. Missing it entirely was a real gap caught on backlog #3's finished draft — check every script against this before calling it done.)
+3. **The precedent (body, 2 sections):** one vivid, real, already-concluded case that proves the pattern is real and has happened before — name the real organisation and the real number where it's public record (that specificity is most of the hook's power), or pull from Aji's own confirmed lived experience. Composite only when nothing real and resolved fits. Each section ends on a bridge.
 4. **The mechanism, compressed:** the abstract cause reduced to one plain, sayable ratio or number a viewer could repeat to a colleague (e.g. "if the same customer exists in six systems, that's six versions of the truth competing for one decision").
 5. **Landing:** a confident, unhedged forward claim about what this means going forward — not a hedge, not "food for thought." (See "Signature style" below, though: the evidence favours landing *small* — an observation or a tip — over a grand declaration. "Unhedged" and "small" aren't in conflict; a plainly-stated small truth is still unhedged.) Then the takeaway/exercise and next-video tease.
 6. **Sign-off:** one line, never a fade-out.
@@ -192,8 +207,8 @@ Calm, warm, unhurried — a knowledgeable colleague over coffee, not a hype perf
 
 ## Cadence
 
-One video per week, fixed day, protected as a hard commitment (not twice-weekly — this runs alongside a demanding day job). Spare capacity banks a 2–3 video buffer, never increases cadence. Already-filmed footage is never discarded — it's repackaged (new intro hook + end-trailer, same background, ~1 hour of work) rather than reshot from scratch.
+At least one video per week on a fixed day, protected as a hard commitment. The move to 7–8 minute videos (2026-08-02) was made specifically to raise publishing frequency above that floor — the old "never twice-weekly" rule was written when a video meant ~2,150 words and a long filming session, and it no longer applies on the same terms. **The specific target cadence is Aji's call and is not yet set** — until it is, treat weekly as the commitment and anything beyond it as banked buffer. Spare capacity still banks a buffer of finished videos rather than being spent on longer ones. Already-filmed footage is never discarded — it's repackaged (new intro hook + end-trailer, same background, ~1 hour of work) rather than reshot from scratch.
 
 ## What "done" looks like for a script
 
-A script that passes the ten rules and the AI-voice test, hits the target runtime, is delivered from a tight outline (not word-for-word), and leaves a list of placeholders where only the presenter's personal examples can go.
+A script that serves one clearly stated purpose with nothing in it that doesn't (see "One purpose per video"), passes the ten rules and the AI-voice test, lands in the 7–8 minute band, is delivered from a tight outline (not word-for-word), and leaves a list of placeholders where only the presenter's personal examples can go.

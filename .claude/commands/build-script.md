@@ -17,7 +17,7 @@ Target: $ARGUMENTS (a topic/backlog number for a fresh build, or a path to an ex
 
 1. Read `CLAUDE.md` (script templates, "Content generation process," "Citing real facts," the ten rules) and `backlog.md`/`producer-memory.md`/`production-log.md` for context, same as `/new-script`.
 2. Research real, verifiable facts and case studies for this topic (per "Citing real facts, companies, and cases" — name real, settled cases where they exist).
-3. Propose a template (state which of the six and why) and a rough section outline — hook angle, credibility angle, what each body section will cover, the landing's core takeaway — as a **short outline, not prose**. Ask Aji to approve or redirect the outline before any section gets written in full. This is the first stop-and-wait point.
+3. **Agree the purpose sentence before anything else** (CLAUDE.md → "One purpose per video") — propose one sentence saying what this video exists to make the viewer understand, and get Aji to confirm or sharpen it. Everything proposed afterwards gets justified against it, and in rework mode it's the standard any existing section has to survive. Then propose a template (state which of the six and why) and a rough section outline — hook angle, credibility angle, what each body section will cover, the landing's core takeaway — as a **short outline, not prose**. Ask Aji to approve or redirect the outline before any section gets written in full. This is the first stop-and-wait point.
 4. Once the outline's approved, ask explicitly whether Aji has a fresh, specific personal story for this topic — ask first, don't default to `producer-memory.md`'s bank just because something in it could fit; repeating the same stories across videos is exactly what Aji wants avoided. Stop and wait.
 5. Only after outline + material are settled, move into "Walk the sections."
 
@@ -25,7 +25,7 @@ Target: $ARGUMENTS (a topic/backlog number for a fresh build, or a path to an ex
 
 1. Read the full existing draft and note its declared template, section boundaries, and current status.
 2. Do **not** propose a full rewrite. Instead, go section by section through the existing structure (hook, credibility, each body section, landing, sign-off) and for each one:
-   - Give a one-line honest read: what's working, what's weak, referencing the ten rules / AI-voice test / raw-material check from CLAUDE.md where relevant.
+   - Give a one-line honest read: what's working, what's weak, referencing the ten rules / AI-voice test / raw-material check from CLAUDE.md where relevant — and whether it survives the purpose sentence agreed in step 1. A section that's well-written but doesn't serve the purpose is a cut, not a keep.
    - If it's weak, propose a specific, concrete fix or alternative — not "this needs work," an actual suggested replacement or a pointed question (e.g. "this hook uses a composite — is there a real, settled case we could name instead?").
    - If it's already strong, say so and move on — don't manufacture a change for the sake of touching every section.
    - **Stop after each section** and wait for Aji to approve, redirect, or supply their own material before touching the next one.
