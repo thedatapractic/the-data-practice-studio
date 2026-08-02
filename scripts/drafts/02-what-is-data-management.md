@@ -23,4 +23,22 @@ So here's the short answer. Your data is an asset — probably the most valuable
 
 Which leaves the only question that matters: what does that work actually involve?
 
+### 1 — WHY IT NEEDS MANAGING AT ALL (0:39–2:22)
+
+Data is an asset. Assets get managed. That's the whole argument — but it only bites once you see how strangely this particular asset behaves.
+
+Start here. You don't spend data. Spend a pound and it's gone. Copy a dataset and now there are two, and both look equally official.
+
+So the same fact ends up living in five systems, entered by different teams in different years. Nothing breaks. But they drift — someone updates one, nobody updates the rest — and now no one can tell you which is right. Not because anybody did anything wrong. Because nobody was ever responsible for keeping them the same.
+
+The second difference is worse, because it hides. If a delivery van breaks down, everyone knows within the hour. If a customer database quietly goes stale — people move house, definitions shift, a field starts getting used for something it was never meant for — nothing announces it.
+
+It's damp behind a wall. The building looks fine right up until the plaster blows.
+
+I work in statutory reporting for a university, so this isn't hypothetical. If our data is wrong, funding is affected — and you don't find out when it goes wrong. You find out at the audit.
+
+So: an asset that spreads on its own, and decays where nobody's looking. That's not a problem you solve once. It's one somebody has to own, permanently.
+
+So who does? That's where this gets uncomfortable — and where I'll give you three questions that tell you more about your data than a fifty-page consultancy report.
+
 _(remaining sections appended as they're approved)_
