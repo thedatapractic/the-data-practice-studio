@@ -13,4 +13,14 @@
 
 ---
 
-_(sections appended as they're approved)_
+### THE HOOK + DIRECT ANSWER (0:00–0:39)
+
+If your office burned down tonight, insurance would replace the building. The laptops, the desks, the servers — all of it.
+
+What it will not replace, though, is your data. Twenty years of customer records, patient histories, transactions — gone, and there's no policy on earth that brings it back.
+
+So here's the short answer. Your data is an asset — probably the most valuable one your organisation owns. And data management is the work of treating it like one.
+
+Which leaves the only question that matters: what does that work actually involve?
+
+_(remaining sections appended as they're approved)_
