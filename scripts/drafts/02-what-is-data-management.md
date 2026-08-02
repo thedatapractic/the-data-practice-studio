@@ -21,24 +21,28 @@ What it will not replace, though, is your data. Twenty years of customer records
 
 So here's the short answer. Your data is an asset — probably the most valuable one your organisation owns. And data management is the work of treating it like one.
 
-Which leaves the only question that matters: what does that work actually involve?
+Which leaves two real questions. Why does an asset like that need managing at all — and what does managing it actually look like? In that order.
 
 ### 1 — WHY IT NEEDS MANAGING AT ALL (0:39–2:22)
 
-Data is an asset. Assets get managed. That's the whole argument — but it only bites once you see how strangely this particular asset behaves.
+So — why.
 
-Start here. You don't spend data. Spend a pound and it's gone. Copy a dataset and now there are two, and both look equally official.
+Think about the last time you moved house. You told your bank. You told your GP. And for months afterwards, post still turned up at the old address — from one department of a company that had definitely been told, while another department got it right.
 
-So the same fact ends up living in five systems, entered by different teams in different years. Nothing breaks. But they drift — someone updates one, nobody updates the rest — and now no one can tell you which is right. Not because anybody did anything wrong. Because nobody was ever responsible for keeping them the same.
+Nobody there was incompetent. Your new address went into one system and never made it into the other four. And the moment two copies of the same fact exist, they start to drift — someone updates one, nobody updates the rest — until no one can tell you which version is true.
 
-The second difference is worse, because it hides. If a delivery van breaks down, everyone knows within the hour. If a customer database quietly goes stale — people move house, definitions shift, a field starts getting used for something it was never meant for — nothing announces it.
+That's the first strange thing about data. You don't spend it. Spend a pound and it's gone; copy a dataset and now there are two, and both look equally official.
+
+Now here's what makes that dangerous rather than annoying. Nothing announced it. No alarm went off the day your two addresses stopped matching.
+
+Data doesn't break. It goes quietly stale — a field starts getting used for something it was never meant for — and everything looks normal from the outside.
 
 It's damp behind a wall. The building looks fine right up until the plaster blows.
 
-I work in statutory reporting for a university, so this isn't hypothetical. If our data is wrong, funding is affected — and you don't find out when it goes wrong. You find out at the audit.
+I work in statutory reporting for a university, so I don't get to treat that as an abstraction. If our data is wrong, funding is affected — and you never find out on the day it goes wrong. You find out at the audit.
 
-So: an asset that spreads on its own, and decays where nobody's looking. That's not a problem you solve once. It's one somebody has to own, permanently.
+So that's the why. An asset that copies itself without being asked, and rots where nobody's looking. You don't fix that once — somebody has to own it, continuously.
 
-So who does? That's where this gets uncomfortable — and where I'll give you three questions that tell you more about your data than a fifty-page consultancy report.
+Which raises the obvious question: who? Hold that thought — in two minutes I'll give you three questions that answer it faster than a fifty-page consultancy report.
 
 _(remaining sections appended as they're approved)_
