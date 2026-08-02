@@ -35,10 +35,11 @@ Target: $ARGUMENTS (a topic/backlog number for a fresh build, or a path to an ex
 
 For each section, in order:
 1. Propose the content for that section only — a full draft of that section, or (for the hook, or any section with a real creative fork) two short alternative angles when there's a genuine choice worth Aji picking between, not just one to rubber-stamp.
-2. Flag anything you're uncertain about as a direct question rather than guessing or placeholdering silently.
-3. Stop. Wait for Aji's response.
-4. **If Aji likes elements of more than one proposed option rather than picking a single winner, don't force a choice — look for how they integrate.** Different options often do different jobs (one paints a picture, one proves the stakes, one gives structure) and can be sequenced so each does its own job, rather than being alternatives competing for the same slot. First case of this: backlog #3's hook combined a sensory analogy with a real-facts passage rather than picking one (see CLAUDE.md → "Signature style," point 1).
-5. Incorporate feedback — revise, swap in Aji's own material, integrate multiple approved options as above, or lock it in as approved — before moving to the next section.
+2. **Run the sentence-chain check on your own draft before Aji sees it** (CLAUDE.md → "The sentence-chain check"). Read it one sentence at a time: resolve every pronoun and demonstrative, test each join with "and therefore" rather than "and also," check nothing steps out of a scene to make a general point and steps back, check every number is anchored to something the viewer just saw, and check the section delivers what the previous section's closing line promised. This is a drafting step, not a review step — a backwards causal chain is far cheaper to catch here than after Aji has read it. Where it breaks, reorder rather than adding connective words.
+3. Flag anything you're uncertain about as a direct question rather than guessing or placeholdering silently.
+4. Stop. Wait for Aji's response.
+5. **If Aji likes elements of more than one proposed option rather than picking a single winner, don't force a choice — look for how they integrate.** Different options often do different jobs (one paints a picture, one proves the stakes, one gives structure) and can be sequenced so each does its own job, rather than being alternatives competing for the same slot. First case of this: backlog #3's hook combined a sensory analogy with a real-facts passage rather than picking one (see CLAUDE.md → "Signature style," point 1).
+6. Incorporate feedback — revise, swap in Aji's own material, integrate multiple approved options as above, or lock it in as approved — before moving to the next section.
 
 Keep a running note (in your own reasoning, not necessarily written to Aji each time) of which sections are locked, so you don't re-litigate an approved section without being asked to.
 

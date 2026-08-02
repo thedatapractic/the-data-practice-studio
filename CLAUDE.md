@@ -64,6 +64,22 @@ Every video has **one purpose**, decided before drafting starts and written as o
 - **A cut topic is a future video, not a loss.** When something genuinely strong doesn't serve this video's purpose, it goes to `backlog.md` as a candidate instead of being squeezed in. The higher publishing frequency is exactly what makes that affordable.
 - **The storyline still has to be a journey.** Rule 4 does not relax because the video is shorter — a tight 7-minute argument still needs real bridges between sections, not a list of compressed facts.
 
+## The sentence-chain check — clarity at sentence level
+
+Standing instruction from Aji, 2026-08-02, derived from applying it live to Video 2's section 1. "One purpose per video" decides *what belongs* in a script; this decides *whether it holds together* once it's in. Run it on every section while drafting, not only at review — and run it on the actual sentences, not on the outline.
+
+Read the section one sentence at a time, in order, and check:
+
+1. **Resolve every pronoun and demonstrative.** "That," "it," "this," "those," "they" — each must point at something specific in the previous sentence or two. If the referent sits further back, or could plausibly be two different things, the viewer has already lost the thread. Real failure: "That's the first strange thing about data" pointed backwards at drifting copies while the rest of the sentence defined a different property entirely.
+2. **Test the join, not the topic.** Between each pair of sentences, try inserting "and therefore" or "which is why." If only "and also" fits, they're merely adjacent — that's a list wearing paragraph clothes, and rule 4 says that's where retention dies.
+3. **Watch for the digression that steps out of the frame.** A sentence that leaves the scene the viewer is inside, makes a general point, and steps back in will break immersion however well it's linked at both ends. Cut it, or make the same point *inside* the scene. Real failure: the "spend a pound and it's gone" money comparison inside the moved-house story — it took three passes to fix because the instinct was to re-link it rather than notice the frame break.
+4. **Anchor every number and abstraction.** "Five places" was arbitrary until "the one system you'd actually contacted" and "the other four" let the viewer count them. If a figure or claim can't be traced to something the viewer just saw, it hasn't been earned.
+5. **Check the hand-off from the previous section.** Whatever the last line promised is what this section must deliver. Real failure: the hook closed on "what does that work actually involve?" and section 1 answered why the work is needed instead.
+6. **Count illustrations per idea.** Three images serving one point while another has none is a distribution problem, not a length problem.
+7. **Strip list markers.** "Start here," "the second difference," ordinals, repeated paragraph openers — all announce a list. A journey uses the content of the previous sentence as its transition instead.
+
+When something fails, prefer **restructuring the causal order** over adding connective words. Most breaks are the symptom of an effect being stated before its cause; no amount of "and that's why" will fix a chain running backwards.
+
 ## Script templates — pick one per video, every time
 
 Six templates, no more. Every script picks exactly one before drafting starts, and the pick gets stated in one line alongside the draft (status line or production-log entry) so it's auditable later. **Never default to whichever template the last video used** — the whole point of having six is that the channel shouldn't read as one template with new words dropped in each week. If a video doesn't cleanly fit one of the six, flag it to Aji rather than forcing it.

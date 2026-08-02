@@ -45,4 +45,20 @@ So that's the why. An asset that copies itself without being asked, and rots whe
 
 Which raises the obvious question: who? Hold that thought — in two minutes I'll give you three questions that answer it faster than a fifty-page consultancy report.
 
+### 2 — SO WHO'S ACTUALLY MANAGING IT? (2:55–4:56)
+
+Look at your own organisation for a second. The money has a finance department. The people have HR. The building has a facilities team. Even the office chairs have somebody who orders them and replaces them when they break.
+
+Now point to the person who owns the data. Not the servers — IT looks after those. The data itself. What it means, whether it's right, how long you're allowed to keep it.
+
+In most organisations the honest answer is nobody in particular. Everybody touches it. Nobody owns it. Which is how a company ends up managing its office chairs more carefully than its customer records.
+
+And there's a reason the others are easier to own. Spend a pound and it's gone — there's never a question about which pound was the real one. Data is the only thing on that list that can sit in five places at once, all of them slightly different.
+
+So nobody volunteers. But the absence still costs you, just never on a line of the budget. Two people walk into a meeting with the same question and two different numbers, and the next twenty minutes go on whose spreadsheet is right instead of what to do about it. Multiply that by every meeting, in every department, all year.
+
+IBM once put the cost of bad data to the US economy at over three trillion dollars in a single year. That isn't a hacking figure. It's the price of ordinary people correcting, reconciling and working around data nobody was responsible for.
+
+So the gap isn't technology. It's ownership. Which brings us to the practical question: if somebody were going to own it, what would they actually be doing?
+
 _(remaining sections appended as they're approved)_
