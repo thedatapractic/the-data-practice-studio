@@ -27,6 +27,22 @@ When Aji says "remember" (or runs `/remember`), the note goes to the relevant **
 
 Each agent reads its own memory at the start of every task and appends to it continuously. An agent records a dated, one-line lesson whenever: it corrects itself, Aji corrects it, or it picks up a correction that originated from another agent. When a lesson affects more than one agent, it also goes into `memory/cross-agent-lessons.md`, tagged with who it affects; each agent copies relevant entries into its own memory on its next run so the lesson survives a fresh context. The result: Linda learns which angles land, Torch learns Aji's taste and Dan's recurring notes, and Dan learns what to check for and how to calibrate.
 
+## What the weekly routine may and may not do
+
+Standing rule, set 2026-08-02, and it **supersedes the original setup**, which had Torch drafting a new script unattended every week. That was scoped before the three-agent process existed. Producing a script to this standard now depends on Aji's judgement, her real stories, and decisions only she can make, so a script written without her is a script that gets rewritten.
+
+**Linda runs every week, unattended.** Her weekly job is to keep the backlog live and ready, not to trigger production:
+- Research and add promising new topics to `backlog.md`, marked clearly as Linda's additions so Aji can see what she did not approve herself.
+- Reassess every existing backlog item: is it still worth making, has the ground shifted, and what is the strongest title for it now?
+- Reorder the list where relevance or sequencing has changed, including where one video clearly sets up another.
+- Then **follow up with Aji** with a short recommendation of what to script next and why, so she can sit down with Torch when it suits her.
+
+**Torch does not write new content unattended. Ever.** No new script begins without Aji in the room. If the weekly slot arrives and there is nothing in progress, Torch does nothing and Aji is told the slot needs her.
+
+**The one exception: finishing work already underway.** If a draft exists that Aji and Torch have already worked on substantially together, and the weekly slot is due, Torch may finish it **only if it can be brought to a state that passes Dan's full checklist without needing anything from Aji.** If completing it would require her decisions, her stories, filling a `[PLACEHOLDER: ...]`, or resolving anything Dan flags as hers, Torch stops and **notifies her that it needs her input to finish**. A notification is the correct outcome, not a failure.
+
+**Nothing is ever marked Reviewed, Filmed or Published unattended.** Those remain Aji's.
+
 ## Presenter
 
 **Aji Saine.** 12+ years spanning software development and clinical/health data management. Managed clinical and health data covering 285,000+ people across research sites in West Africa (a single data error could affect a medical decision). Currently works in statutory data reporting for a UK university, where submitted data determines funding and regulation. Proactively trained an Access-only team in SQL Server skills ahead of the university's own student-record-system migration — still not live after two years of institutional planning, the delay is not the team's. Built dashboards for the Medical Research Council's Health and Demographic Surveillance System (HDSS), used across the organisation to track demographic data for a large population.

@@ -1,19 +1,44 @@
 ---
-description: The weekly production run — orchestrates Linda, Torch, and Dan to produce and self-review a script
+description: The weekly run — Linda curates the backlog, and Torch finishes an in-progress draft only if it can be completed without Aji
 ---
 
-The weekly production run. The main session acts as the **studio director** and runs the three agents in sequence. Runs unattended (scheduled), so be conservative about anything needing Aji's judgement — when in doubt, propose rather than commit.
+The weekly routine. It runs unattended, so read `CLAUDE.md` first, in particular **"What the weekly routine may and may not do"**, and stay inside it.
 
-Read `CLAUDE.md` first (the studio, the stable-vs-adjustable rule, the learning system).
+**This routine does not normally produce a script.** Its job is to keep the backlog live and ready so that when Aji sits down with Torch, the thinking is already done. Writing a new script without her produces work that gets rewritten, so it is not attempted.
 
-Steps:
+## Step 1 — Linda curates the backlog (every week, always)
 
-1. **Linda — research and brief.** Invoke the `linda` agent to scan the space, pick this week's video (default to the next `New` backlog item unless research surfaces a materially stronger angle; a genuinely new topic is added to `backlog.md` as `Proposed — awaiting Aji's approval`, not drafted this run), and write `videos/<slug>/brief.md`.
-2. **Torch — draft.** Invoke the `torch` agent with Linda's brief. Torch chooses the best-fit template from `templates/`, writes the full script to `videos/<slug>/draft.md`, and states the template choice at the top.
-3. **Dan — assess.** Invoke the `dan` agent to review the draft against the checklist and write `videos/<slug>/assessment.md` with prioritised fixes and a verdict.
-4. **Torch — one revision pass.** Invoke `torch` again to apply Dan's fixes that can be applied automatically, leaving `[PLACEHOLDER: ...]` for anything only Aji can supply. Do not loop endlessly — one pass, then stop.
-5. **Learning.** Ensure each agent recorded any lesson from this run in its own memory, and add cross-agent lessons to `memory/cross-agent-lessons.md` where relevant.
-6. **Log the run** in `production-log.md`: date, topic, research evidence, template chosen, Dan's verdict, status. Update the video's row in `backlog.md` to `Drafted`.
-7. **Notify Aji** with a single PushNotification, under 200 characters, no markdown: lead with the title and the one thing needing a decision, e.g. `Studio: drafted "<title>" — Dan says one more pass, 2 placeholders need you. Ready to review.`
+Invoke the `linda` agent to:
 
-Do not mark anything `Reviewed`, `Filmed`, or `Published` — those require Aji. Do not commit or push unless Aji has asked for it.
+1. **Research new topics.** Look at what is working in the data space now, and what questions and pain points are recurring. Add promising topics to `backlog.md`, each marked **`Added by Linda — for Aji's review`** with one line on why it is worth making, so Aji can always see what she did not choose herself.
+2. **Reassess every existing item.** For each, ask whether it is still worth making, whether the ground has shifted under it, and **what the strongest title would be now**. Update titles where there is a clearly better one, and note the previous title so nothing is lost silently.
+3. **Reorder where it helps.** Re-sequence on relevance for the coming weeks and on how videos set each other up: if one video obviously earns its audience from another, put them together in the right order and say so.
+4. **Log what changed** in `production-log.md`: added, retitled, reordered, dropped, and why.
+
+## Step 2 — Is there an in-progress draft, and is the slot due?
+
+Look for a video in `videos/<slug>/` with a draft that Aji and Torch have already worked on substantially together and that is not yet finished.
+
+**If there is none:** stop. Go to step 4.
+
+**If there is one:** invoke `dan` to assess it against the full checklist, then decide honestly:
+
+- **Can it be brought to a state that passes Dan's checklist using only what is already in the project** — the brief, `voice-profile.md`, `domain-knowledge.md`, `presenter-background.md`, and the approved anecdotes in `memory/torch.md`? If yes, invoke `torch` to apply the fixes, then `dan` once more to confirm it passes. Update the status and log it.
+- **Does finishing it need anything from Aji** — a decision she has not made, a story that is not in the approved bank, a `[PLACEHOLDER: ...]`, or anything Dan flags as hers? Then **stop and notify her.** Do not guess, do not invent, and do not fill a placeholder to get it over the line. Stopping here is the correct outcome.
+
+## Step 3 — Never do these unattended
+
+- Start a new script.
+- Mark anything `Reviewed`, `Filmed` or `Published`.
+- Invent an anecdote, a statistic or a personal example.
+- Publish, post or send anything outside this project.
+
+## Step 4 — Report to Aji
+
+Send a single PushNotification, under 200 characters, no markdown. Lead with the recommendation, not the process. For example:
+
+- `Linda: backlog updated, 2 new topics + 3 retitled. Suggest "<title>" next — ready when you are.`
+- `Torch: finished "<title>", passes Dan. Backlog updated. Ready for your read-aloud.`
+- `Torch: "<title>" needs your input to finish — 2 placeholders only you can fill. Backlog updated.`
+
+Then write the fuller version to `production-log.md`: what Linda changed, what Torch did or did not do and why, and the recommended next item with the reason.

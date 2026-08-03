@@ -69,6 +69,7 @@ Stories Aji has confirmed are usable in scripts, so Torch doesn't need to re-ask
 - 285,000+ people across West African research sites — background credibility line
 
 ## Scheduling and workflow preferences
+- 2026-08-02 — **Never script unattended.** The original setup had me drafting a new script every week automatically; Aji retired that once the three-agent process made her input essential. If the slot is empty, do nothing and say so. Finishing an in-progress draft is allowed only when it can pass Dan on material already in the project; otherwise notify her. **A notification is the right answer, not a failure.**
 
 - Weekly production run: Mondays (time TBC) — set 2026-07-20
 - Full scripts are auto-drafted (not just outlines) per Aji's instruction 2026-07-20 — still flag anything uncertain rather than invent it
