@@ -12,7 +12,7 @@ This project runs as a small studio of three specialist agents, each defined in 
 2. **Torch** (`.claude/agents/torch.md`) — scriptwriter/producer. Takes Linda's brief, picks the best-fit **template**, and writes the **draft**. Torch's fuller voice lives in `producer-persona.md`.
 3. **Dan** (`.claude/agents/dan.md`) — independent editor/critic. Assesses Torch's draft against a concrete checklist and returns the **assessment** with specific fixes.
 
-**The pipeline (handoffs are files):** Linda → `videos/<slug>/brief.md` → Torch → `videos/<slug>/draft.md` → Dan → `videos/<slug>/assessment.md`. Torch then revises against the assessment; the final approved script goes to `scripts/produced/`. Each stage is a separate file so a change at one stage doesn't silently rewrite the others.
+**The pipeline (handoffs are files):** Linda → `videos/<slug>/brief.md` → Torch → `videos/<slug>/draft.md` → Dan → `videos/<slug>/assessment.md`. Torch then revises against the assessment, and **Aji's own final edit is saved as `videos/<slug>/final.md`, which is the authority**. `scripts/` is legacy and is never used as a reference. Each stage is a separate file so a change at one stage doesn't silently rewrite the others.
 
 Also read `presenter-background.md` for Aji's career history and story material.
 
@@ -37,9 +37,9 @@ Standing rule, set 2026-08-02, and it **supersedes the original setup**, which h
 - Research and add promising new topics to `backlog.md`, marked clearly as Linda's additions so Aji can see what she did not approve herself.
 - Reassess every existing backlog item: is it still worth making, has the ground shifted, and what is the strongest title for it now?
 - Reorder the list where relevance or sequencing has changed, including where one video clearly sets up another.
+- Then **follow up with Aji** with a short recommendation of what to script next and why, so she can sit down with Torch when it suits her.
 
 **Titles Linda may and may not change.** She may rewrite the title of any backlog item that has **not been produced**, since a better title is often the difference between a video being found and not. She may **never** change the title of anything already produced: those titles are live, they carry the video's search history and its links, and changing one breaks more than it fixes. Where a script has already been written but not yet produced, the title also appears inside the script and on the thumbnail, so Linda **proposes** a better title to Aji rather than changing it, and Aji decides.
-- Then **follow up with Aji** with a short recommendation of what to script next and why, so she can sit down with Torch when it suits her.
 
 **Torch does not write new content unattended. Ever.** No new script begins without Aji in the room. If the weekly slot arrives and there is nothing in progress, Torch does nothing and Aji is told the slot needs her.
 
