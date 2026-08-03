@@ -42,18 +42,24 @@ The honest answer to your question is **no, not every title suits both audiences
 | 24 | The EU AI Act Is Live | **P** | Compliance content for people with obligations. Students find it as background | DG |
 | 25 | Governance as Code | **P** | Technical and senior. The narrowest audience on the list, and the most differentiated | DG + SP |
 | 26 | The Data Jobs Disappearing, and the Ones Being Created | **S** | Career planning | Careers |
+| 27 | The Python You Actually Need for Data Work | **Both**, leans S | A student can follow along with a file and a laptop; a professional gets the shortlist of what is worth their time. Crucially this is a student entry point that is **not** a careers video | SP |
+| 28 | How to Read a Dataset Before You Analyse It | **Both** | Students learn the step nobody teaches; professionals recognise the one they skip under deadline. Works with any dataset, so no organisation required | DA |
 
 ## Balance
 
 Counting the lean rather than the ideal:
 
-- **Students first: 9** videos (3, 5, 7, 8, 12, 17, 18, 19, 26)
+- **Students first: 9** videos (3, 5, 7, 8, 12, 17, 18, 19, 26), plus 27 leaning that way
 - **Professionals first: 12** videos (2, 4, 6, 10, 11, 14, 15, 20 partly, 21, 23, 24, 25)
-- **Genuinely both: 5–6** videos (1, 9, 13, 16, 22, and 20 arguably)
+- **Genuinely both: 7–8** videos (1, 9, 13, 16, 22, 27, 28, and 20 arguably)
 
 **Verdict: reasonably balanced, tilting slightly towards professionals.** That tilt is defensible while the channel is young, because professional-pain content is more shareable and brings the audience in, but it is worth watching. The student-facing videos are also clustered in careers content rather than spread across the subjects, which means a student who is not asking a careers question has fewer entry points.
 
-## Three gaps worth acting on
+## Gaps: status
+
+**Gaps 1 and 2 are now closed.** #27 (Python) and #28 (reading a dataset) were approved on 2026-08-03 specifically to fill them, and both were chosen to be dual-audience so they improve the student balance **without** adding more careers content. Gap 3 remains open: careers is still not one of the four named subject areas.
+
+## The gaps as originally found
 
 1. **Python is missing entirely.** You name SQL *and Python* as a subject area, and **not one video on the backlog covers Python.** For a channel that claims it, that is the biggest hole on the list. A "Python for data cleaning, the parts you actually use" video would serve both audiences and fill it.
 2. **Data analytics is thin.** Only #14 sits squarely in analytics, with #18 partly. For one of your four named subject areas, that is under-served, especially given your own Power BI depth. Candidates: reading a dataset before you analyse it, and what makes an analysis trustworthy rather than just presentable.

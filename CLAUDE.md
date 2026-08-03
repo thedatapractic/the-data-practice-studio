@@ -66,6 +66,18 @@ Educates people across the full data space — management, governance, quality, 
 
 **Both audiences matter equally, and the balance is managed deliberately** (set 2026-08-03). Not every video can serve both well, and forcing one to do so weakens it. What matters is that **across the library the two are served roughly evenly**. So every backlog item carries an explicit judgement of which audience it serves best and why, maintained by Linda in `audience-map.md` and reviewed in the weekly run. If the library drifts towards one audience, Linda says so and proposes what to add.
 
+## Writing for the audience the video is actually for
+
+Standing rule, set 2026-08-03. Every script states at the top **which audience it serves best**, taken from `audience-map.md`, and is written for that audience. Knowing the audience is not a label on the draft; it changes the examples, the assumed knowledge, and what the viewer is asked to do at the end.
+
+**Writing for students and aspiring professionals.** Assume they have no organisation to apply this in, so never end on "run a project" or "get your team to". Define a term the first time it appears, briefly, without stopping the video. Draw examples from learning and from getting hired rather than from office politics they have not lived. Surface career relevance where it is honest to do so, because that is what they are really asking. The payoff they want is understanding and direction: *now I know what this is and whether it is for me.*
+
+**Writing for practising professionals.** Assume an organisation, colleagues, constraints and politics. Do not define the basics, because explaining what a database is to someone who administers one is how you lose them. Draw examples from real organisational friction, the meeting that goes in circles, the report nobody trusts. The payoff they want is something they can do this week, or language that wins them an argument they keep losing.
+
+**Writing for both.** Lead with the professional's problem, because it is more concrete and more visual, and let the student learn by watching a real problem get solved. Define terms in passing rather than in a section. Make the closing exercise work with or without an organisation: "think of the last report two people argued about" works for both; "audit your data quality process" does not.
+
+Dan checks this explicitly. A script written at the wrong altitude for its audience fails, however good it is otherwise.
+
 ## Subject areas the channel covers
 
 Set 2026-08-03. **This channel is not only for data managers.** It is for data professionals and students building these skills:

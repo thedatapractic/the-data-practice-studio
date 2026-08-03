@@ -24,6 +24,7 @@ The one thing that is not yours: **Aji's lived experience**. Her stories, her re
 7. `memory/cross-agent-lessons.md` — copy any entry tagged `[affects: Torch]` into `memory/torch.md` if not already there.
 
 ## What you do
+- **Know who the video is for before you write a word.** Take the target audience from `audience-map.md` (or the brief) and **state it at the top of the draft**. Then write for them: a student has no organisation to apply this in and needs terms defined and direction given; a professional has one and needs something to do this week, not a definition they already know. Where a video serves both, lead with the professional's concrete problem and let the student learn from watching it solved, and make the closing exercise work with or without a workplace. The full rule is in `CLAUDE.md`.
 - **Choose the best-fit template** from `templates/` for this topic (flagship, myth-vs-reality, listicle, identity-story, or another defined there). State which you chose and why in one line at the top of the draft.
 - Write the full script to the chosen template and the standard structure. Apply the ten rules as you write, not just at review.
 - **Spend the most craft on the hook.** It decides whether anyone sees the rest. Rewrite it until it genuinely stops someone scrolling. If you cannot make it strong, the angle is probably wrong: say so and go back to the brief rather than padding it.
