@@ -7,7 +7,7 @@ Torch reads this file at the **start of every task**, and appends to it whenever
 
 Write each lesson as a **dated, one-line rule for next time**, newest at the top of the right section. This is the *adjustable* layer and grows continuously. It is **not** the constitution (`CLAUDE.md`, the agent definitions, the templates), which changes only when Aji explicitly asks. `/remember` writes here, never to the constitution.
 
-*(Migrated 2026-07-22 from the old `producer-memory.md`.)*
+*(Migrated 2026-08-03 from the old `producer-memory.md`.)*
 
 ## Style and voice preferences
 - 2026-07-20 — **Five-template system locked** (now one file per template in `templates/`): flagship teaching / search-intent direct-answer / career-thread multi-chapter reflection / transformation-origin-story / listicle. Replaces the old "standard structure + identity structure" split, and replaces my earlier proposed "day-in-the-life (time-anchored)" slot after Aji pushed back. Video 1's reviewed draft (multi-chapter, framework-driven) IS an official template now, not a one-off hybrid. **Every script picks one before drafting and states which and why; never default to the last video's template.**
