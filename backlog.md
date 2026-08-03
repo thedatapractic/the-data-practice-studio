@@ -6,9 +6,9 @@ Update the **Status** column as scripts move through the pipeline: `New` → `Dr
 
 | # | Video | Pillar / purpose | Status |
 |---|---|---|---|
-| 1 | What Is Data Management? The Million-Dollar Problem Nobody Owns | Search flagship / start here | **Produced — script final** (`videos/what-is-data-management/final.md`). *Moved to position 1 by Linda 2026-08-03 on Aji's instruction.* |
+| 1 | What Is Data Management? The Million-Dollar Problem Nobody Owns | Search flagship / start here | **APPROVED AND COMPLETE** — the only finished video (`videos/what-is-data-management/final.md`, Aji's own final edit). *Moved to position 1 on her instruction 2026-08-03.* |
 | 2 | The Data Mistake That Cost Companies Hundreds of Millions (And Nobody Saw It Coming) | Foundations (ethics & GDPR) | **NEXT TO SCRIPT — confirmed by Aji 2026-08-03.** Existing draft needs a re-hook to the new title. *Retitled by Linda:* the two finished scripts tease this video in almost these words, so the title matches the promise already made. Previous title: "The data mistake that gets companies fined millions". |
-| 3 | What a Data Manager Actually Does All Day (It's Not Spreadsheets) | Identity / trust-building | **Ready to film** — `videos/what-a-data-manager-does/`. *Moved to position 3 by Linda 2026-08-03.* **Its closing tease now points at a video that publishes before it and must be rewritten** (see Notes). |
+| 3 | What a Data Manager Actually Does All Day (It's Not Spreadsheets) | Identity / trust-building | **Drafted — NOT yet approved.** `videos/what-a-data-manager-does/`. Aji is rebuilding every pre-process video through the pipeline step by step with her own input, so this one goes back through review with her rather than proceeding to film. Its closing tease also points at a video that now publishes before it and must be rewritten. |
 | 4 | Why nobody trusts your reports (and how to fix it) | Foundations (data quality) | New |
 | 5 | Data governance explained like you're new to it | Evergreen search | New |
 | 6 | 5 signs your company has a data problem | Shareable listicle / seeds future topics | New |

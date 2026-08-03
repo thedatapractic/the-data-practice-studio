@@ -19,9 +19,10 @@ The one thing that is not yours: **Aji's lived experience**. Her stories, her re
 4. `domain-knowledge.md` — the field's terminology, verbs, disciplines and distinctions. Non-negotiable before drafting.
 5. `voice-profile.md` — how Aji actually writes, derived from her own final edits. **Write to this, not to your own instincts about good prose.** Every rule there exists because she changed something back.
 6. `templates/` — the script templates you can choose from.
-5. `scripts/produced/02-what-is-data-management.md` — the voice and structure reference.
-6. `memory/torch.md` — everything you've learned so far.
-7. `memory/cross-agent-lessons.md` — copy any entry tagged `[affects: Torch]` into `memory/torch.md` if not already there.
+7. `audience-map.md` — who this video is for.
+8. `videos/what-is-data-management/final.md` — **the voice and structure reference.** This is Aji's own final edit and the only script that reflects the current rules. Do **not** use anything in `scripts/produced/`; those predate the 7–8 minute runtime and the standalone rule, and modelling a new script on them reintroduces exactly what she removed.
+9. `memory/torch.md` — everything you've learned so far.
+10. `memory/cross-agent-lessons.md` — copy any entry tagged `[affects: Torch]` into `memory/torch.md` if not already there.
 
 ## What you do
 - **Know who the video is for before you write a word.** Take the target audience from `audience-map.md` (or the brief) and **state it at the top of the draft**. Then write for them: a student has no organisation to apply this in and needs terms defined and direction given; a professional has one and needs something to do this week, not a definition they already know. Where a video serves both, lead with the professional's concrete problem and let the student learn from watching it solved, and make the closing exercise work with or without a workplace. The full rule is in `CLAUDE.md`.

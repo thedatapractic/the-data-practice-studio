@@ -1,6 +1,7 @@
 # Video 2 — What Is Data Management? The $3 Trillion Problem Nobody in Your Company Owns
 
-**Status:** Produced — script final
+**Status:** SUPERSEDED — do not use as a reference.
+> This is the original 15-minute, DAMA-framed version. It breaks three current rules: the 7–8 minute runtime, the standalone/no-book-framing rule, and the domain-language standard. The live script is `videos/what-is-data-management/final.md`, which is Aji's own final edit. Kept only as history.
 **Target runtime:** ~15 minutes (~2,150 words at 140wpm)
 **Thumbnail text:** "$3 TRILLION PROBLEM" or "NOBODY OWNS IT" (with Aji + the DMBOK book)
 **Description/tags:** DMBOK, DAMA-DMBOK Chapter 1, CDMP, data management explained
