@@ -3,6 +3,8 @@
 Persistent context for writing, reviewing, and repurposing content for **The Data Practice**, a YouTube channel. Full strategy source lives in `source/The_Data_Practice_Channel_Strategy_v2.docx`; this file is the working summary every command should follow.
 
 ## The studio: three agents — read this first
+**If you are picking this project up after a break, read `OPERATING-GUIDE.md` first.** It covers the weekly rhythm, how to produce one video end to end, what the agents may and may not do without Aji, where everything lives, the known issues, and the scheduling constraint.
+
 
 This project runs as a small studio of three specialist agents, each defined in `.claude/agents/`. The main session acts as the **studio director**: it reads this file, then delegates to the right agent and passes their work down the line. The agents are:
 
