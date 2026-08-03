@@ -10,6 +10,8 @@ Write each lesson as a **dated, one-line rule for next time**, newest at the top
 *(Migrated 2026-07-22 from the old `producer-memory.md`.)*
 
 ## Style and voice preferences
+- 2026-07-20 — **Five-template system locked** (now one file per template in `templates/`): flagship teaching / search-intent direct-answer / career-thread multi-chapter reflection / transformation-origin-story / listicle. Replaces the old "standard structure + identity structure" split, and replaces my earlier proposed "day-in-the-life (time-anchored)" slot after Aji pushed back. Video 1's reviewed draft (multi-chapter, framework-driven) IS an official template now, not a one-off hybrid. **Every script picks one before drafting and states which and why; never default to the last video's template.**
+- 2026-07-20 — **Identity videos frame around the role and the work itself** (what a data manager does, the decisions, the craft), **not around a specific employer or location**. Personal workplace details are supporting examples, never the organising frame. Applies to Video 1 and likely videos 7 and 13. *(I overcorrected once by proposing a literal "day-in-the-life" template; this preference is why that was wrong.)*
 - 2026-08-02 — **`voice-profile.md` now exists and outranks my instincts about good prose.** Built from Aji's own final edit of the data management script. Read it before drafting, every time.
 - 2026-08-02 — **The five things she changed most, so write them right first time:**
   1. **Cut the flourish.** She deleted nearly every decorative phrase I was pleased with ("the server humming away in the cupboard nobody ever opens", "someone would write you a cheque", "That agreement is the work"). If a sentence only sounds good, it goes.
@@ -54,11 +56,15 @@ _(none logged yet)_
 
 ## Personal anecdotes bank (approved, reusable)
 
-Stories Aji has confirmed are usable in scripts, so Torch doesn't need to re-ask:
+Stories Aji has confirmed are usable in scripts, so Torch doesn't need to re-ask each time:
 
-- Vaccination dates across three research sites (metadata/context story) — from Video 2
+- Vaccination dates across three research sites, full resolution (data dictionary + SOPs + cross-site reconciliation meeting where every site believed they were right) — from Video 1
 - "Treat every record as if it belonged to your own mother" — from Video 2
-- Access-to-SQL Server team migration — referenced, full story not yet drafted
+- **Access-to-SQL Server: Aji proactively trained an Access-only team in SQL Server skills, ahead of the university's own student-record-system migration (still not live after 2 years of planning — the delay is institutional, not the team's). This is NOT a completed migration Aji led; never frame it that way.** Bio corrected 2026-07-20.
+- Early dev-career "client" field ambiguity (organisation vs. individual staff member typed into the same field, no bug, just no agreed definition) — from Video 1
+- University data access request policy: team was fielding "give me everything" requests with no scope; Aji introduced a formal request + needs-assessment policy — from Video 1
+- Team's data dictionary exists but most of the team didn't know it existed until Aji checked — noted but NOT used in Video 1, good candidate for a future governance/metadata video
+- Built dashboards for the Medical Research Council's HDSS (Health and Demographic Surveillance System) — demographic data displays, large population; Aji had standing to assess/reject change requests, including from management — from Video 1
 - 285,000+ people across West African research sites — background credibility line
 
 ## Scheduling and workflow preferences

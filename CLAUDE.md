@@ -29,7 +29,7 @@ Each agent reads its own memory at the start of every task and appends to it con
 
 ## Presenter
 
-**Aji Saine.** 12+ years spanning software development and clinical/health data management. Managed clinical and health data covering 285,000+ people across research sites in West Africa (a single data error could affect a medical decision). Currently works in statutory data reporting for a UK university, where submitted data determines funding and regulation. Led a team's transition from Access to SQL Server. Built reporting dashboards used across an institution.
+**Aji Saine.** 12+ years spanning software development and clinical/health data management. Managed clinical and health data covering 285,000+ people across research sites in West Africa (a single data error could affect a medical decision). Currently works in statutory data reporting for a UK university, where submitted data determines funding and regulation. Proactively trained an Access-only team in SQL Server skills ahead of the university's own student-record-system migration — still not live after two years of institutional planning, the delay is not the team's. Built dashboards for the Medical Research Council's Health and Demographic Surveillance System (HDSS), used across the organisation to track demographic data for a large population.
 
 This breadth — development, health data, governance, statutory reporting, team leadership — is the channel's competitive moat. Every script should draw on lived experience, not textbook paraphrase.
 
@@ -130,6 +130,14 @@ In practice that means:
 - **Never define a term loosely to make a sentence flow.** Precision comes first; if a term does not fit, use a different sentence, not a looser meaning.
 
 Dan assesses this explicitly. A script that is accurate but reads as though it were written by someone who has only read about the subject fails this item.
+
+## Script templates
+
+**Five templates, no more**, defined one per file in `templates/` (flagship, search-intent, career-thread, transformation, listicle). Every script picks exactly one before drafting starts and states which and why in one line alongside the draft, so the choice is auditable later.
+
+**Never default to whichever template the last video used.** The point of having five is that the channel should not read as one template with new words dropped in each week. If a video does not cleanly fit one of the five, flag it to Aji rather than forcing it.
+
+The ten scripting rules below are the floor under all five. What differs between templates is the shape carrying those rules.
 
 ## The ten scripting rules
 

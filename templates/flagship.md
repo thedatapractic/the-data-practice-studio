@@ -1,15 +1,11 @@
-# Template: Flagship (explainer)
+# Template: Flagship / deep-dive teaching
 
-**Use for:** the definitional, "start here" topics that anchor a pillar and act as evergreen entry points (e.g. "What Is Data Management?").
+*Definition agreed 2026-07-20 in the five-template system. **Runtime note (2026-08-02):** Aji has since set all videos to a 7–8 minute target, 10 minutes maximum, which supersedes any longer runtime implied below.*
 
-**The rule that governs this template:** the video answers **what it is, why we need it, and how we do it**, and nothing else. It is **standalone** — a viewer who has never heard of any framework or textbook must be able to follow it start to finish. Reference works may inform the thinking; they never provide the structure or the on-camera frame.
-
-**Arc (target 7–8 minutes, ~1,000–1,120 words; up to 10 minutes where the material earns it):**
-1. **Hook (0:00–0:30):** open on the felt problem the topic owns. Concrete, visual, stakes named. Plant an open loop. No greetings.
-2. **Credibility + promise (to ~1:00):** who the presenter is in one breath, and exactly what the viewer will be able to do by the end. Brief.
-3. **What it is (~1:00–3:00):** define the subject plainly, in the viewer's language. Clear the most common misunderstanding of it. One concrete, lived example that makes the definition real.
-4. **Why we need it (~3:00–5:00):** the cost of not doing it, told as picture or story rather than a wall of statistics. Use at most two figures, sourced. The viewer should feel the problem in their own workplace.
-5. **How we do it (~5:00–7:00):** two or three practical, nameable moves the viewer could actually start. This is the payoff section; do not let it get squeezed.
-6. **Landing (~7:00):** the core argument in 2–3 sentences, the promised takeaway/exercise, a problem-led tease of the next video, one-line sign-off.
-
-**Watch for:** at this runtime the enemy is breadth. One core idea, three answers, ruthless cuts. Every abstract point immediately grounded in something visualisable. Statistics serve the argument, they never become the argument.
+### 1. Flagship / deep-dive teaching
+**Use for:** cornerstone pillars 1–3 videos that need to walk the viewer through a whole argument, especially when the point requires unlearning a misconception first. Video 2 is the model.
+1. **Hook (0:00–0:45):** open with the viewer's problem, promise the payoff, plant an open loop — don't give the answer yet.
+2. **Credibility + promise (to ~2:00):** who you are in one breath, what the viewer will be able to do by the end.
+3. **Body (3–5 sections):** each section builds on the last and ends on a bridge that raises the next section's question. The framework gets assembled piece by piece, not handed over up front.
+4. **Landing:** restate the argument in 3–4 sentences, deliver the promised exercise, tease next video.
+5. **Sign-off:** one line, never a fade-out.
