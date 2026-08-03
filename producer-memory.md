@@ -19,6 +19,7 @@ _(none logged yet)_
 
 Stories Aji has confirmed are usable in scripts, so Torch doesn't need to re-ask each time:
 
+- HDSS multi-site data drift + fix (visual decision trees, site-specific training, real-time validation, live per-site dashboards, 95% accuracy improvement, staff reported higher satisfaction) — used in full in Video 4 as the concrete "where trust breaks" example. Previously logged as unused/saved for a metadata video; that's no longer accurate — if a future metadata/governance video wants it, use a light callback, not the full retelling, to avoid repeating a story two scripts running.
 - Vaccination dates across three research sites, full resolution (data dictionary + SOPs + cross-site reconciliation meeting where every site believed they were right) — from Video 1
 - "Treat every record as if it belonged to your own mother" — from Video 2
 - Access-to-SQL Server: Aji proactively trained an Access-only team in SQL Server skills, ahead of the university's own student-record-system migration (still not live after 2 years of planning — the delay is institutional, not the team's). CLAUDE.md bio corrected to match 2026-07-20 — this is NOT a completed migration Aji led; never frame it that way.
@@ -32,6 +33,8 @@ Stories Aji has confirmed are usable in scripts, so Torch doesn't need to re-ask
 
 - Weekly production run: Mondays (time TBC) — set 2026-07-20
 - Full scripts are auto-drafted (not just outlines) per Aji's instruction 2026-07-20 — Torch should still flag anything uncertain rather than invent it
+- 2026-08-03: Annual/recurring industry survey reports (Monte Carlo State of Data Quality, Drexel/Precisely State of Data Integrity, Thales Digital Trust Index) are a reliable recurring trend-scan source for sharp, current stats to sharpen hooks on foundations-pillar topics — worth checking these by name in future trend scans, not just generic news search, and always double-check which specific survey a stat comes from before citing two stats as if from the same source.
+- 2026-08-03: `presenter-background.md` contains Aji's own named frameworks (e.g. "Quality by Design") and quantified achievements that count as approved source material — safe to build a video's core teaching around one of these directly, no need to placeholder or re-ask, same as anecdotes in the bank above.
 
 ## Open questions for Aji
 
