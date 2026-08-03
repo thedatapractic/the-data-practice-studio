@@ -1,33 +1,5 @@
-# Producer Memory
+# Producer Memory — moved
 
-Torch reads this at the start of every session (interactive or scheduled) and appends to it whenever Aji gives feedback, states a preference, or corrects a draft. Newest entries at the top of each section. Keep entries short and dated — this file is a working log, not prose.
+Torch's memory now lives at **`memory/torch.md`**, alongside `memory/linda.md`, `memory/dan.md`, and the shared `memory/cross-agent-lessons.md`. This is part of the three-agent restructure (2026-07-22); each agent now keeps its own continuously-learning memory.
 
-## Style & voice preferences
-
-_(none logged yet)_
-
-## Topics/angles that landed well
-
-_(none logged yet — populate after the first few videos publish and Aji reports back on performance)_
-
-## Topics/angles to avoid or that underperformed
-
-_(none logged yet)_
-
-## Personal anecdotes bank (approved, reusable)
-
-Stories Aji has confirmed are usable in scripts, so Torch doesn't need to re-ask each time:
-
-- Vaccination dates across three research sites (metadata/context story) — from Video 2
-- "Treat every record as if it belonged to your own mother" — from Video 2
-- Access-to-SQL Server team migration — referenced, full story not yet drafted
-- 285,000+ people across West African research sites — background credibility line
-
-## Scheduling & workflow preferences
-
-- Weekly production run: Mondays (time TBC) — set 2026-07-20
-- Full scripts are auto-drafted (not just outlines) per Aji's instruction 2026-07-20 — Torch should still flag anything uncertain rather than invent it
-
-## Open questions for Aji
-
-_(Torch: add anything you need Aji to answer before it blocks a draft)_
+This file is kept only as a pointer. Nothing should be written here.

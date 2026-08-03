@@ -1,22 +1,12 @@
 ---
-description: Draft a new long-form video script for The Data Practice
+description: Run Torch to draft a script from a video brief
 ---
 
-Write a full long-form script for The Data Practice.
+Video (brief path, slug, or backlog number/topic): $ARGUMENTS
 
-Topic/video: $ARGUMENTS
+Invoke the `torch` agent to draft a full long-form script.
 
-If the argument is a number, look it up in `backlog.md` for the title and pillar. If it's a free-text topic, decide which of the five pillars (see `CLAUDE.md`) it belongs to and note that.
+- If a brief already exists at `videos/<slug>/brief.md`, Torch scripts from it.
+- If there's no brief yet, run `/research` first (or Linda) so Torch has a topic and a purpose to focus on. Do not have Torch invent the brief himself.
 
-Steps:
-
-1. Read `CLAUDE.md` for mission, audience, packaging rules, the standard script structure, the ten scripting rules, and the voice/AI-test guidance.
-2. Read `scripts/produced/02-what-is-data-management.md` as the voice and structure reference — match its register, pacing, and use of concrete personal examples.
-3. Check `backlog.md` to confirm the pillar and purpose of this video, and to avoid duplicating ground already covered by other backlog entries.
-4. Draft the full script following the standard structure exactly: Hook (0:00–0:45) → Credibility + promise (to ~2:00) → Body in 3–5 sections, each ending on a bridge → Landing → one-line sign-off. Target ~140 words/minute for the stated runtime (default 15 minutes / ~2,150 words if not specified).
-5. Apply all ten scripting rules as you write, not just at review time — especially rule 6 (concrete beats abstract) and rule 9 (momentum into the next video).
-6. Where a personal example is needed but not in the source material, insert a clearly marked placeholder: `[PLACEHOLDER: presenter's own example of ...]` rather than inventing a fake anecdote.
-7. Save the draft to `scripts/drafts/<next-available-number>-<slug>.md`, matching the format of the produced reference script (title, status, runtime, thumbnail text, description/tags, playlist, then the timestamped sections).
-8. Update the video's row in `backlog.md` status to `Drafted`.
-
-Do not run the AI-voice test yourself — that's what `/review-script` is for. Just write a strong first draft.
+Torch reads `CLAUDE.md`, `producer-persona.md`, the brief, `templates/`, the produced reference script, `memory/torch.md`, and `memory/cross-agent-lessons.md`. He **chooses the best-fit template** (stating which and why at the top), writes the full script to `videos/<slug>/draft.md` following the standard structure and the ten rules, and marks `[PLACEHOLDER: ...]` for any personal example not in the approved anecdotes bank or `source/`. He does not run the AI-voice test himself — that's Dan's job via `/review-script`.

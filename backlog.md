@@ -28,6 +28,7 @@ Update the **Status** column as scripts move through the pipeline: `New` → `Dr
 | 20 | AI and your data job: what actually changes (and what doesn't) | Analytics & AI era | New |
 | 21 | How to run a data quality project that people don't hate | Practitioner / community-builder | New |
 | 22 | Everything a great data professional needs to know: the complete map | Capstone / pinned start-here funnel | Compile once library exists |
+| 23 | Your AI is only as good as your data (why confident answers are still wrong) | Foundations + AI era / high current search interest | **Proposed — awaiting Aji's approval.** Cut from the "What Is Data Management?" script for runtime, and it deserves its own video: a model fed contradictory, undefined, unowned data does not refuse, it answers confidently at scale and is wrong. Distinct from #20, which is about careers. |
 
 ## Notes
 
