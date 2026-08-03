@@ -35,6 +35,8 @@ Standing rule, set 2026-08-02, and it **supersedes the original setup**, which h
 - Research and add promising new topics to `backlog.md`, marked clearly as Linda's additions so Aji can see what she did not approve herself.
 - Reassess every existing backlog item: is it still worth making, has the ground shifted, and what is the strongest title for it now?
 - Reorder the list where relevance or sequencing has changed, including where one video clearly sets up another.
+
+**Titles Linda may and may not change.** She may rewrite the title of any backlog item that has **not been produced**, since a better title is often the difference between a video being found and not. She may **never** change the title of anything already produced: those titles are live, they carry the video's search history and its links, and changing one breaks more than it fixes. Where a script has already been written but not yet produced, the title also appears inside the script and on the thumbnail, so Linda **proposes** a better title to Aji rather than changing it, and Aji decides.
 - Then **follow up with Aji** with a short recommendation of what to script next and why, so she can sit down with Torch when it suits her.
 
 **Torch does not write new content unattended. Ever.** No new script begins without Aji in the room. If the weekly slot arrives and there is nothing in progress, Torch does nothing and Aji is told the slot needs her.
