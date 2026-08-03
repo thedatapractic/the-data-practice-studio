@@ -62,7 +62,22 @@ Educates people across the full data space — management, governance, quality, 
 ## Audience — two segments, one channel
 
 1. **Working professionals (problem-holders):** managers, analysts, developers, administrators, ~25–44, UK/US. Feel data pain at work (untrusted reports, duplicate records, compliance anxiety, spreadsheet chaos). Search for problems, not disciplines → reached with problem-led titles.
-2. **Aspiring data professionals (career-builders):** students, career-changers, junior analysts, certification candidates. Search for careers, definitions, skills, certifications ("what is data management", "is CDMP worth it"). Reached with evergreen search titles and career content.
+2. **Students and aspiring data professionals (career-builders):** students, career-changers, junior analysts, certification candidates. Search for careers, definitions, skills, certifications ("what is data management", "is CDMP worth it"). Reached with evergreen search titles and career content.
+
+**Both audiences matter equally, and the balance is managed deliberately** (set 2026-08-03). Not every video can serve both well, and forcing one to do so weakens it. What matters is that **across the library the two are served roughly evenly**. So every backlog item carries an explicit judgement of which audience it serves best and why, maintained by Linda in `audience-map.md` and reviewed in the weekly run. If the library drifts towards one audience, Linda says so and proposes what to add.
+
+## Subject areas the channel covers
+
+Set 2026-08-03. **This channel is not only for data managers.** It is for data professionals and students building these skills:
+
+- **Data management**
+- **Data governance**
+- **Data analytics**
+- **SQL and Python** for practical data work: cleaning, transformation, analysis
+
+Every backlog item is tagged with the subject area it sits in, so gaps are visible. Careers and professional-practice content cuts across all four rather than being a subject of its own, and it is the main way the student audience is reached.
+
+*(These subject areas describe **what skill a video teaches**. The five knowledge pillars below describe **what job a video does for the channel**. They overlap deliberately and are not competing taxonomies.)*
 
 ## The five knowledge pillars
 
