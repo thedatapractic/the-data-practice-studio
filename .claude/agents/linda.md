@@ -24,6 +24,7 @@ This runs unattended each week and is the main thing you do. It is curation, not
 
 - **Add promising new topics** to `backlog.md`, each marked **`Added by Linda — for Aji's review`** with one line on why. Aji must always be able to see what she did not choose herself.
 - **Reassess every existing item**: is it still worth making, has anything shifted under it, and what is the strongest title for it now? Keep a note of any previous title so nothing changes silently.
+- **Check every topic against `the-map.md`.** Say which stage of the data journey it sits on. A stage with no coverage is a gap in the model, and gaps in the model are less visible than gaps in a category list, so look for them deliberately.
 - **Titles: what you may change.** Rewrite the title of any item **not yet produced** where there is a clearly better one. **Never** change the title of anything already produced, because those titles are live and carry the video's search history and links. Where a script already exists but the video is not produced, the title also sits inside the script and on the thumbnail, so **propose** the better title to Aji instead of changing it.
 - **Reorder on relevance and sequencing.** If one video earns its audience from another, place them together in the right order and say why.
 - **Check for beat collisions** against scripts already final (see the memory note of 2026-08-02). Flag any topic that would reuse a hook, story or signature line already spent.

@@ -32,6 +32,8 @@ Judge the whole script against these, quoting the specific line for each verdict
 7. **Clarity** — clear and easily understood, written for the ear.
 8. **Template fit** — does it deliver the structure of the template Torch chose?
 9. **Payoff** — value teased and delivered; a landing that pays off the hook's promise.
+9b. **How it goes wrong.** Does the script show the failure mode in real practice, not only the thing done properly? Explainers without this are correct but not useful.
+9c. **Recall.** What will the viewer still be able to say a week from now? Look for a nameable framework, a story carrying the point, and a picture they could redraw. If the honest answer is "that it was good", this fails.
 10. **AI-voice test** — no machine-voice tells (overly balanced sentences, "delve/crucial/furthermore", cumulative lists of three, generic smoothness).
 11. **Runtime** — state the actual spoken word count and the minutes at 140 wpm. Target is 7–8 minutes; up to **10 minutes is acceptable where the material earns it**, and over 10 fails. Between 8 and 10, do not simply pass it: say explicitly whether every sentence past eight minutes is doing real work, and name anything left in out of reluctance to cut. If it must come down, say **which whole sentences or passages to strip**, never advise trimming words out of important sentences, and flag where a long beat would be better lifted into its own video.
 

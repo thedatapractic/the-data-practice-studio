@@ -131,6 +131,30 @@ Short-form clips are cut *from* finished scripts to widen reach, not written sep
 4. **Landing (~7:00):** restate the core argument in 2–3 sentences, deliver the promised exercise/takeaway, pivot into the next video with a problem-led tease.
 5. **Sign-off:** one line, never a fade-out.
 
+## How this goes wrong in practice
+
+Standing rule, set 2026-08-04. **Every explainer must show how the thing goes wrong in real practice**, not only how it works when done properly. Name the failure mode, say what it looks like on the ground, and say what causes it.
+
+Derived from two independent sources Aji rates: an AWS governance video that names misconceptions explicitly, and DAMA-DMBOK, which pairs every discipline with how it commonly fails. When the same mechanism shows up in two sources you admire independently, it is a principle rather than a preference.
+
+It works because **removing the wrong model is more efficient than presenting the right one.** A viewer holding a misconception filters everything you say through it. Name it, correct it, and the rest lands. It also makes the video useful rather than merely correct: people recognise their own situation in a failure mode far faster than in a definition.
+
+## The map: how videos connect
+
+`the-map.md` holds the channel's model of the field: the stages data moves through, where each video sits, and the rule that **every script locates itself on the map in one sentence**. The library had been decomposed into pieces but never interconnected, and decomposition alone produces a list rather than a model. Torch adds the locating line; Linda checks new topics against the map for coverage gaps and for where they sit.
+
+## Design for recall, not just comprehension
+
+Standing rule, set 2026-08-04. Understanding it while watching is the floor. **The test is whether the viewer can still explain it to a colleague next week.**
+
+Concretely:
+- **A nameable thing beats a described thing.** "Decide, translate, foresee" survives; "the three areas of responsibility" does not.
+- **A story is remembered where an explanation is forgotten.** The vaccination dates carry the metadata point further than any definition of metadata would.
+- **A picture the viewer can rebuild in their head** outlasts one they only watched. If they can sketch it on a whiteboard afterwards, it stuck.
+- **Consistent shape across videos** means the viewer learns the shape once and spends their attention on the content thereafter. This is why the five templates exist.
+
+Dan assesses this: **what will the viewer still be able to say a week from now?** If the honest answer is "that it was good", the script has not done this job.
+
 ## The hook is the most important thing in the video
 
 Standing rule, set 2026-08-02. The hook decides whether anyone sees the rest of the work. Everything else in a script can be good and the video still fails if the opening is weak, so **the hook gets the most craft, the most rewriting, and the most protection when cutting for time.**
