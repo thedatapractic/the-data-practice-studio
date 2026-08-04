@@ -1,6 +1,6 @@
 # The Map — how the channel's videos connect
 
-**Status: proposed shape, 2026-08-04, awaiting Aji's decision on the spine.** Everything else follows from that one choice, so change it now if it is wrong rather than later.
+**Status: CONFIRMED by Aji, 2026-08-04.** The spine is the data journey. Everything else in the channel's structure follows from it, so treat a change to the spine as a constitution-level decision, not an adjustment.
 
 ---
 
@@ -12,7 +12,7 @@ What is missing is the other half. **Nothing shows a viewer how the pieces relat
 
 **Decomposition alone produces a list. Interconnection is what turns the list back into a model.** A taxonomy tells you what exists; a model tells you how it behaves, and a model is what people remember and come back to.
 
-## The proposed spine: follow the data
+## The spine: follow the data
 
 Not a category tree, because a category tree is a list with boxes. **A journey**, because a journey has sequence and dependency built in, which is what makes it a model.
 
@@ -56,12 +56,12 @@ Illustrative, not exhaustive. The point is that every video can be located in on
 
 **Playlists follow the journey**, not the pillars, so the channel page shows the shape rather than a filing system.
 
-## The decision that is Aji's
+## Why this spine, and what was rejected
 
-**Is "follow the data" the right spine?** The alternatives:
+*Recorded so the reasoning survives, and so a future change is made knowingly rather than by drift.* The alternatives considered and rejected:
 
 - **A hub and spokes**, governance at the centre. Truer to how the profession describes itself, but it is DAMA's wheel with different labels, and the channel is deliberately not a DMBOK series.
 - **By question the viewer is asking** ("I can't trust my numbers", "I want a data job"). Better for search intent, worse as a model, because it has no sequence or dependency.
 - **The four subject areas as they stand.** Honest, but it is a categorisation, and a categorisation is the list this exercise exists to escape.
 
-The journey is recommended because it shows **dependency**, which is the channel's actual argument: what happens at creation determines everything downstream. That is the same claim as Quality by Design, so the map and the philosophy say the same thing, which is what makes a map memorable rather than decorative.
+The journey was chosen because it shows **dependency**, which is the channel's actual argument: what happens at creation determines everything downstream. That is the same claim as Quality by Design, so the map and the philosophy say the same thing, which is what makes a map memorable rather than decorative.
