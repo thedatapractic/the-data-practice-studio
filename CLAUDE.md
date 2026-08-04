@@ -158,6 +158,10 @@ Standing rule, set 2026-08-02. When a script runs over the 7–8 minute target, 
 
 The order to cut in: repetition first, then supporting examples that duplicate a point already made, then any sentence that does not serve what it is, why we need it, or how we do it. The hook, the central story, and the payoff are cut last.
 
+**The test for anything borderline** (set 2026-08-04, Aji's rule): **state the video's one core idea in a single sentence, then ask whether this passage advances it.** If it does, and it adds clarity or meaning that the core idea needs, keep it. If it works against the main point, or if you find yourself having to argue for the connection, cut it. **Having to argue for it is the tell.**
+
+This is context-dependent by design and that is deliberate. A landscape map of a whole field is right where the video's core idea *is* the shape of the field, and wrong where the core idea is one concept explained properly. The same passage can be essential in one video and padding in another.
+
 ## Creativity is a requirement, not a bonus
 
 Standing rule, set 2026-08-02. A script must be **genuinely creative and engaging, as well as accurate and useful.** Explaining something correctly is the floor, not the goal.
@@ -175,6 +179,12 @@ In practice that means:
 - **Show the reasoning behind the definition**, not just the definition. Anyone can state what data quality is; an expert explains why it degrades, what it costs, and what actually stops it.
 - **Be willing to be opinionated** about the things practitioners genuinely argue about, and to say what surface-level explainers skip.
 - **Never define a term loosely to make a sentence flow.** Precision comes first; if a term does not fit, use a different sentence, not a looser meaning.
+
+
+
+**Keep the term, add the gloss** (standing rule, set 2026-08-04). When a technical term appears, **explain it in its simplest form without replacing it.** Say "metadata, the written definition of what a field actually holds", not "the written definition of what a field holds" on its own.
+
+This is the single move that lets one video serve both audiences. Substituting plain words for the real term robs the student of the vocabulary they need in order to search, read further and sound credible in an interview, and using the term without a gloss loses them entirely. Keeping both patronises nobody: the professional hears a term they know, the student hears a term *and* learns it.
 
 Dan assesses this explicitly. A script that is accurate but reads as though it were written by someone who has only read about the subject fails this item.
 
