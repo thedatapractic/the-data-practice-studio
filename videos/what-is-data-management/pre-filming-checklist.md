@@ -20,7 +20,7 @@ This also means the convention in `CLAUDE.md` — that `videos/<slug>/final.md` 
 
 - [ ] **Gartner on-screen credit.** Part 2 says "According to the Gartner research from 2020, this is costing the average organisation around twelve point nine million dollars a year." Needs an on-screen source credit while that line is spoken. Aji fact-checks her own figures and does not present a number as settled without attribution, so this is a hard requirement, not a nice-to-have. *(Outstanding since 2026-08-02. Carried by three assessments. This is its last home before it gets done.)*
 
-- [ ] **Timed read-aloud.** The script is **~1,400 spoken words**, which is **10:00 at 140 words per minute** — exactly the ceiling, with **no margin at all.** That matters because the channel's stated delivery style is "calm, warm, unhurried", and an unhurried delivery can run slower than 140 wpm — in which case this goes over on camera even though it passes on paper. **Read it aloud with a timer before filming.** If it lands over 10:00, do not shave words out of load-bearing sentences; cut a whole passage. **The easy cuts are gone** — the "five-year transformation programme" line and the "core disciplines" line were both spent on 2026-08-11 to pay for the DAMA scope sentence. What is left is a structural choice: lift a whole beat into its own video, or drop the DAMA sentence and get 30 words back.
+- [ ] **Timed read-aloud.** The script is **~1,340 spoken words**, which is **9:34 at 140 words per minute** — about 60 words of headroom against the 10:00 ceiling, the most this script has had. That still matters because the channel's stated delivery style is "calm, warm, unhurried", and an unhurried delivery can run meaningfully slower than 140 wpm. **Read it aloud with a timer before filming** to confirm the real figure.
 
 ---
 
@@ -28,6 +28,7 @@ This also means the convention in `CLAUDE.md` — that `videos/<slug>/final.md` 
 
 - [ ] Gartner credit (see blockers above).
 - [ ] Consider an on-screen visual for the **six-stage journey** at the map line in the landing — "It runs the whole length of your data's journey". `the-map.md` describes the shape as a line with two bands and the people underneath. A picture the viewer can redraw is worth more than the sentence alone, and the recall rule specifically asks for one.
+- [ ] **Strongly consider an on-screen graphic for the eleven knowledge areas** in the landing, added 2026-08-11. Eleven names spoken in about forty seconds is a lot to hold by ear alone, and this is now the video's main takeaway since the closing exercise was removed. Governance at the centre with the other ten around it, matching how the script groups them: architecture with modelling and design; storage and operations with security and integration; document and content management with reference and master data; warehousing and business intelligence; metadata with data quality. **This is the one graphic that changes what the viewer retains** — the recall rule asks for a picture they could redraw, and a list they only heard is the hardest thing to keep.
 - [ ] Consider showing the **three dates** side by side during the vaccination story. "Same field. Same format. Three completely different meanings." is the most rebuildable image in the script and currently only exists in audio.
 
 ---
