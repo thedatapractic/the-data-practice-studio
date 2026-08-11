@@ -16,7 +16,7 @@ The honest answer to your question is **no, not every title suits both audiences
 
 | # | Video | Serves best | Why | Subject |
 |---|---|---|---|---|
-| 1 | What Is Data Management? | **Both** | The definition serves students needing orientation; the asset framing and the cost give professionals language for a conversation they are already having | DM |
+| 1 | What Is Data Management? | **Both** | *Reasoning updated 2026-08-11 — the script was reworked and the old "asset framing and cost" rationale no longer describes it.* Written at **professional altitude with student access points**: the hook opens on a dispute over a figure that a professional recognises instantly and a student can picture, the definition and the metadata story give students orientation, and Part 3 gives professionals something to do this week. Student doors are explicit — the second move needs no team or job title, and the closing exercise works with or without a workplace. Subtitle is now "The Job Nobody Owns", which reads as opportunity to the student and as a gap to the professional | DM |
 | 2 | The Data Mistake That Cost Companies Hundreds of Millions | **P**, accessible to S | Compliance stakes land hardest on someone who owns a process. Students reach it through GDPR curiosity rather than need | DG |
 | 3 | What a Data Manager Actually Does All Day | **S** | Career exploration first: is this the job for me. Professionals enjoy the recognition but learn little new | DM + Careers |
 | 4 | Why nobody trusts your reports | **P** | This is a felt organisational pain. A student has no reports anyone distrusts yet | DM |
