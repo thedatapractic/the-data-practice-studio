@@ -33,22 +33,24 @@ That gives the shape: a line with two bands running along it, and the people und
 
 Illustrative, not exhaustive. The point is that every video can be located in one line.
 
+*Renumbered by Linda, 2026-08-17, to match `backlog.md`'s current numbering — #17 moved to #4, and #4–#16 shifted to #5–#17; #18 onward is unchanged. See `backlog.md`'s notes for the full renumbering explanation.*
+
 | Stage | Videos that live here |
 |---|---|
-| Created | Quality at source, validation, upstream prevention |
-| Defined | Metadata (12), master data (10), who owns the data (15) |
-| Stored and moved | Warehouses, lakes and lakehouses (18), Excel is not a database (13) |
-| Trusted, or not | Why nobody trusts your reports (4), the 60-second quality check (11), 5 signs (6), data quality projects (21) |
-| Used | Dashboards (14), reading a dataset (28), your AI is only as good as your data (23) |
-| Kept or destroyed | GDPR (16), the data mistake that cost millions (2), the EU AI Act (24) |
-| Running the length | Data governance explained (5), governance as code (25) |
-| The tools | SQL (9), Python (27) |
-| The people | Career change (7), which path pays (8), certifications (19), jobs disappearing (26), what a data manager does (3) |
-| The whole journey | What Is Data Management (1), how data flows keyboard to boardroom (17), the complete map (22) |
+| Created | **Proposed, not yet approved: "Data Quality at the Point of Entry" (#30, added by Linda 2026-08-17).** This stage had zero backlog coverage until this proposal — every other quality video sits in "Trusted, or not" below, which is about detecting and fixing, not preventing at the point of capture. |
+| Defined | Metadata (13), master data (11), who owns the data (16) |
+| Stored and moved | Warehouses, lakes and lakehouses (18), Excel is not a database (14) |
+| Trusted, or not | Why nobody trusts your reports (5), the 60-second quality check (12), 5 signs (7), data quality projects (21) |
+| Used | Dashboards (15), reading a dataset (28), your AI is only as good as your data (23) |
+| Kept or destroyed | GDPR (17), the data mistake that cost millions (2), the EU AI Act (24) |
+| Running the length | Data governance explained (6), governance as code (25). **Proposed: centralized vs federated governance (#31, added by Linda 2026-08-17)** — an operating-model question that also runs the length of the journey rather than sitting at one stage. |
+| The tools | SQL (10), Python (27) |
+| The people | Career change (8), which path pays (9), certifications (19), jobs disappearing (26), what a data manager does (3). **Proposed: data literacy / data anxiety (#32, added by Linda 2026-08-17)** — about the people who touch data, not a stage. |
+| The whole journey | What Is Data Management (1), how data flows keyboard to boardroom (4, moved up from 17 this run — see below), the complete map (22) |
 
 ## What this changes, concretely
 
-**Video 17 becomes the spine, not an ordinary explainer.** "How data flows through a company: from keyboard to boardroom" *is* this map. It is currently sitting at position 17 as though it were one topic among many. It should be made early and pinned, because every other video can then point at it.
+**The spine video is now positioned early.** "How data flows through a company: from keyboard to boardroom" *is* this map. It sat at position 17 as though it were one topic among many for two weekly runs after this was first flagged (2026-08-04); Linda moved it to position 4 in `backlog.md` on 2026-08-17, because every other video can then point at it, and the longer it stays unmade the more videos get scripted with nothing to point to.
 
 **Video 22 becomes buildable.** The capstone is currently waiting on "once the library exists", which is a condition that keeps receding. **The map does not need the library to exist.** Build the map now; the capstone becomes a presentation of it later.
 
