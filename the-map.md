@@ -33,24 +33,26 @@ That gives the shape: a line with two bands running along it, and the people und
 
 Illustrative, not exhaustive. The point is that every video can be located in one line.
 
+*Numbers updated 2026-08-31 to match `backlog.md`'s renumbering. If you're reading an older reference to one of these videos, see the conversion note at the bottom of `backlog.md`.*
+
 | Stage | Videos that live here |
 |---|---|
-| Created | Quality at source, validation, upstream prevention |
-| Defined | Metadata (12), master data (10), who owns the data (15) |
-| Stored and moved | Warehouses, lakes and lakehouses (18), Excel is not a database (13) |
-| Trusted, or not | Why nobody trusts your reports (4), the 60-second quality check (11), 5 signs (6), data quality projects (21) |
-| Used | Dashboards (14), reading a dataset (28), your AI is only as good as your data (23) |
-| Kept or destroyed | GDPR (16), the data mistake that cost millions (2), the EU AI Act (24) |
-| Running the length | Data governance explained (5), governance as code (25) |
-| The tools | SQL (9), Python (27) |
-| The people | Career change (7), which path pays (8), certifications (19), jobs disappearing (26), what a data manager does (3) |
-| The whole journey | What Is Data Management (1), how data flows keyboard to boardroom (17), the complete map (22) |
+| Created | **Garbage In, Garbage Out (8)** — added 2026-08-31, closing what had been the only stage on this map with zero backlog coverage |
+| Defined | Metadata (15), master data (13), who owns the data (18) |
+| Stored and moved | Warehouses, lakes and lakehouses (20), Excel is not a database (16) |
+| Trusted, or not | Why nobody trusts your reports (9), the 60-second quality check (14), 5 signs (11), data quality projects (23) |
+| Used | Dashboards (17), reading a dataset (30), your AI is only as good as your data (25) |
+| Kept or destroyed | GDPR (19), the data mistake that cost millions (2), the EU AI Act (4) |
+| Running the length | Data governance explained (10), governance as code (27), **AI agents — who's accountable (26)** — added 2026-08-31 |
+| The tools | SQL (12), Python (29) |
+| The people | Career change (6), which path pays (7), certifications (21), jobs disappearing (28), what a data manager does (3) |
+| The whole journey | What Is Data Management (1), how data flows keyboard to boardroom (5), the complete map (24) |
 
 ## What this changes, concretely
 
-**Video 17 becomes the spine, not an ordinary explainer.** "How data flows through a company: from keyboard to boardroom" *is* this map. It is currently sitting at position 17 as though it were one topic among many. It should be made early and pinned, because every other video can then point at it.
+**The spine video is now pinned early.** "How data flows through a company: from keyboard to boardroom" *is* this map. It sat at position 17 for nearly a month after this instruction was written, as though it were one topic among many — **moved to position 5 by Linda on 2026-08-31**, directly after the three videos already committed, because every other video can then point at it.
 
-**Video 22 becomes buildable.** The capstone is currently waiting on "once the library exists", which is a condition that keeps receding. **The map does not need the library to exist.** Build the map now; the capstone becomes a presentation of it later.
+**The capstone becomes buildable.** "Everything a great data professional needs to know" (position 24) is currently waiting on "once the library exists", which is a condition that keeps receding. **The map does not need the library to exist.** Build the map now; the capstone becomes a presentation of it later.
 
 **A locating convention for scripts.** Each video earns its place on the map in **one sentence**, near the top or in the landing, not a whole beat: *"This is the moment data gets created, and almost everything downstream depends on getting it right here."* One line, no runtime cost, and the viewer starts assembling the whole picture across videos instead of collecting unconnected explainers.
 
