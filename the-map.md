@@ -33,22 +33,24 @@ That gives the shape: a line with two bands running along it, and the people und
 
 Illustrative, not exhaustive. The point is that every video can be located in one line.
 
+*Numbering updated 2026-09-07 to match `backlog.md` after that week's renumbering (video 4 became the spine; everything at old #4–#16 shifted to #5–#17; #18 and beyond are unchanged).*
+
 | Stage | Videos that live here |
 |---|---|
 | Created | Quality at source, validation, upstream prevention |
-| Defined | Metadata (12), master data (10), who owns the data (15) |
-| Stored and moved | Warehouses, lakes and lakehouses (18), Excel is not a database (13) |
-| Trusted, or not | Why nobody trusts your reports (4), the 60-second quality check (11), 5 signs (6), data quality projects (21) |
-| Used | Dashboards (14), reading a dataset (28), your AI is only as good as your data (23) |
-| Kept or destroyed | GDPR (16), the data mistake that cost millions (2), the EU AI Act (24) |
-| Running the length | Data governance explained (5), governance as code (25) |
-| The tools | SQL (9), Python (27) |
-| The people | Career change (7), which path pays (8), certifications (19), jobs disappearing (26), what a data manager does (3) |
-| The whole journey | What Is Data Management (1), how data flows keyboard to boardroom (17), the complete map (22) |
+| Defined | Metadata (13), master data (11), who owns the data (16) |
+| Stored and moved | Warehouses, lakes and lakehouses (18), Excel is not a database (14), what is a data contract (30, proposed) |
+| Trusted, or not | Why nobody trusts your reports (5), the 60-second quality check (12), 5 signs (7), data quality projects (21) |
+| Used | Dashboards (15), reading a dataset (28), your AI is only as good as your data (23) |
+| Kept or destroyed | GDPR (17), the data mistake that cost millions (2), the EU AI Act (24) |
+| Running the length | Data governance explained (6), governance as code (25), agentic AI governance (31, proposed) |
+| The tools | SQL (10), Python (27) |
+| The people | Career change (8), which path pays (9), certifications (19), jobs disappearing (26), what a data manager does (3), SQL interviews (32, proposed) |
+| The whole journey | What Is Data Management (1), how data flows keyboard to boardroom (4), the complete map (22) |
 
 ## What this changes, concretely
 
-**Video 17 becomes the spine, not an ordinary explainer.** "How data flows through a company: from keyboard to boardroom" *is* this map. It is currently sitting at position 17 as though it were one topic among many. It should be made early and pinned, because every other video can then point at it.
+**The data-flow video becomes the spine, not an ordinary explainer.** "How data flows through a company: from keyboard to boardroom" *is* this map. It sat at position 17 as though it were one topic among many for over a month after this was written — **moved to position 4 by Linda on 2026-09-07**, immediately after the three videos already locked into the current publish order, so it now sits early enough that every other video can point back at it as the map intended.
 
 **Video 22 becomes buildable.** The capstone is currently waiting on "once the library exists", which is a condition that keeps receding. **The map does not need the library to exist.** Build the map now; the capstone becomes a presentation of it later.
 
