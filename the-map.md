@@ -35,7 +35,7 @@ Illustrative, not exhaustive. The point is that every video can be located in on
 
 | Stage | Videos that live here |
 |---|---|
-| Created | Quality at source, validation, upstream prevention |
+| Created | Quality at source, validation, upstream prevention — **no video number assigned, flagged as a gap by Linda 2026-09-14** (see `backlog.md` #32, proposed, not yet approved) |
 | Defined | Metadata (12), master data (10), who owns the data (15) |
 | Stored and moved | Warehouses, lakes and lakehouses (18), Excel is not a database (13) |
 | Trusted, or not | Why nobody trusts your reports (4), the 60-second quality check (11), 5 signs (6), data quality projects (21) |

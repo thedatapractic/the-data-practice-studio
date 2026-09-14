@@ -44,16 +44,22 @@ The honest answer to your question is **no, not every title suits both audiences
 | 26 | The Data Jobs Disappearing, and the Ones Being Created | **S** | Career planning | Careers |
 | 27 | The Python You Actually Need for Data Work | **Both**, leans S | A student can follow along with a file and a laptop; a professional gets the shortlist of what is worth their time. Crucially this is a student entry point that is **not** a careers video | SP |
 | 28 | How to Read a Dataset Before You Analyse It | **Both** | Students learn the step nobody teaches; professionals recognise the one they skip under deadline. Works with any dataset, so no organisation required | DA |
+| 29 | Data Management vs Data Governance | **Both**, leans S | Confusion-resolution content, which the evidence shows draws people who are trying to get oriented as much as people with an org problem | DM + DG |
+| 30 | SQL vs Python: Which Should You Learn First | **Both** | A student needs the sequencing decision before they start; a professional deepening one skill over the other gets the same answer. Career-adjacent without being a pure careers video | SP |
+| 31 | What Is a Data Contract? | **P** | Technical and organisational by nature — you need a pipeline and a second team to have this problem. Same narrow, differentiated lane as #25 | DG + SP |
+| 32 | Garbage In, Garbage Out: Quality at the Point of Entry | **Both** | A professional gets a process to push back with at the point of capture; a student learns why quality is a design discipline and not just a cleanup step | DM |
+
+*(#29–32 are proposed, awaiting Aji's approval — see `backlog.md`. Included here so the balance verdict reflects the full pipeline, not only approved items.)*
 
 ## Balance
 
-Counting the lean rather than the ideal:
+Counting the lean rather than the ideal, including the four proposed-but-unapproved items so the picture reflects the whole pipeline:
 
-- **Students first: 9** videos (3, 5, 7, 8, 12, 17, 18, 19, 26), plus 27 leaning that way
-- **Professionals first: 12** videos (2, 4, 6, 10, 11, 14, 15, 20 partly, 21, 23, 24, 25)
-- **Genuinely both: 7–8** videos (1, 9, 13, 16, 22, 27, 28, and 20 arguably)
+- **Students first: 10** videos (3, 5, 7, 8, 12, 17, 18, 19, 26, 29-leaning), plus 27 leaning that way
+- **Professionals first: 13** videos (2, 4, 6, 10, 11, 14, 15, 20 partly, 21, 23, 24, 25, 31)
+- **Genuinely both: 9–10** videos (1, 9, 13, 16, 22, 27, 28, 30, 32, and 20 arguably)
 
-**Verdict: reasonably balanced, tilting slightly towards professionals.** That tilt is defensible while the channel is young, because professional-pain content is more shareable and brings the audience in, but it is worth watching. The student-facing videos are also clustered in careers content rather than spread across the subjects, which means a student who is not asking a careers question has fewer entry points.
+**Verdict: still reasonably balanced, tilting slightly towards professionals — updated 2026-09-14, direction unchanged from 2026-08-03.** The tilt is stable rather than worsening: this run's three additions land one professional-leaning (#31, deliberately narrow and technical, same lane as #25), and two genuinely-both (#30, #32), which is a small net improvement to the student side if all three are approved. That tilt is still defensible while the channel is young, because professional-pain content is more shareable and brings the audience in, but it is worth watching. The student-facing videos are also still clustered in careers content rather than spread across the subjects, which means a student who is not asking a careers question has fewer entry points — #30 and #32 both help here specifically because neither is a careers video.
 
 ## Gaps: status
 
