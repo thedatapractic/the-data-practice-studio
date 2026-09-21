@@ -36,13 +36,13 @@ Illustrative, not exhaustive. The point is that every video can be located in on
 | Stage | Videos that live here |
 |---|---|
 | Created | Quality at source, validation, upstream prevention |
-| Defined | Metadata (12), master data (10), who owns the data (15) |
+| Defined | Metadata (12), master data (10), who owns the data (15), data contracts (31) |
 | Stored and moved | Warehouses, lakes and lakehouses (18), Excel is not a database (13) |
 | Trusted, or not | Why nobody trusts your reports (4), the 60-second quality check (11), 5 signs (6), data quality projects (21) |
 | Used | Dashboards (14), reading a dataset (28), your AI is only as good as your data (23) |
 | Kept or destroyed | GDPR (16), the data mistake that cost millions (2), the EU AI Act (24) |
 | Running the length | Data governance explained (5), governance as code (25) |
-| The tools | SQL (9), Python (27) |
+| The tools | SQL (9), Python (27), SQL interview questions (30) |
 | The people | Career change (7), which path pays (8), certifications (19), jobs disappearing (26), what a data manager does (3) |
 | The whole journey | What Is Data Management (1), how data flows keyboard to boardroom (17), the complete map (22) |
 

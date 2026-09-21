@@ -2,7 +2,7 @@
 
 Linda's standing assessment of who each video serves and what it teaches. Reviewed in the weekly run and updated whenever the backlog changes.
 
-*Assessed 2026-08-03.*
+*Assessed 2026-08-03. Reviewed and extended 2026-09-21 (Linda's weekly run) — two rows added (#30, #31), balance recount below.*
 
 ## How to read it
 
@@ -44,16 +44,18 @@ The honest answer to your question is **no, not every title suits both audiences
 | 26 | The Data Jobs Disappearing, and the Ones Being Created | **S** | Career planning | Careers |
 | 27 | The Python You Actually Need for Data Work | **Both**, leans S | A student can follow along with a file and a laptop; a professional gets the shortlist of what is worth their time. Crucially this is a student entry point that is **not** a careers video | SP |
 | 28 | How to Read a Dataset Before You Analyse It | **Both** | Students learn the step nobody teaches; professionals recognise the one they skip under deadline. Works with any dataset, so no organisation required | DA |
+| 30 | SQL Interview Questions That Actually Get You Hired | **Both**, leans S | Interview prep serves the job-seeker and career-changer most directly, but a working analyst switching roles or sharpening for a promotion gets real value too. Added 2026-09-21 | SP + Careers |
+| 31 | Data Contracts Explained | **P** | Assumes a system with a producer and a consumer of data and a pipeline between them — a student does not yet have that to negotiate. Added 2026-09-21 | DM + DG |
 
 ## Balance
 
 Counting the lean rather than the ideal:
 
-- **Students first: 9** videos (3, 5, 7, 8, 12, 17, 18, 19, 26), plus 27 leaning that way
-- **Professionals first: 12** videos (2, 4, 6, 10, 11, 14, 15, 20 partly, 21, 23, 24, 25)
+- **Students first: 9** videos (3, 5, 7, 8, 12, 17, 18, 19, 26), plus 27 and 30 leaning that way
+- **Professionals first: 13** videos (2, 4, 6, 10, 11, 14, 15, 20 partly, 21, 23, 24, 25, 31)
 - **Genuinely both: 7–8** videos (1, 9, 13, 16, 22, 27, 28, and 20 arguably)
 
-**Verdict: reasonably balanced, tilting slightly towards professionals.** That tilt is defensible while the channel is young, because professional-pain content is more shareable and brings the audience in, but it is worth watching. The student-facing videos are also clustered in careers content rather than spread across the subjects, which means a student who is not asking a careers question has fewer entry points.
+**Verdict: still reasonably balanced, tilt towards professionals holding steady rather than worsening.** *(Recount 2026-09-21.)* Both new additions this week land on the professional/organisational side of "both" or "professional" — #31 needs a system with a producer and a consumer of data, which is why it counts as professional-first, and #30 leans student but is filed under "both" because a working analyst genuinely uses it too. That tilt is still defensible while the channel is young, because professional-pain content is more shareable and brings the audience in, but three additions in a row (27, 28, and now 30/31) have not moved the ratio meaningfully in the student direction. The student-facing videos are also still clustered in careers content rather than spread across the subjects, which means a student who is not asking a careers question has fewer entry points. **Recommendation: the next new topic Linda proposes should be deliberately student-first and outside careers content**, to actually shift the balance rather than hold it.
 
 ## Gaps: status
 
